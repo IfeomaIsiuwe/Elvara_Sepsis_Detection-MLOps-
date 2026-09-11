@@ -1,0 +1,1450 @@
+history_id,patient_id,diagnosis_history,infection_history,medication_history,treatment_history
+1,1,Cancer (active),Skin/Soft Tissue,Atorvastatin,Oxygen therapy
+2,2,Immunosuppression,Respiratory,Insulin,IV fluids
+3,2,Chronic Kidney Disease,Surgical Site,Salbutamol inhaler,Surgery (recent)
+4,3,Cancer (active),Surgical Site,Atorvastatin,Oxygen therapy
+5,3,Cancer (active),None documented,Amlodipine,None
+6,4,Diabetes,None documented,Salbutamol inhaler,Antibiotic course
+7,5,Cancer (active),Respiratory,Prednisone,Antibiotic course
+8,5,Immunosuppression,None documented,Metformin,IV fluids
+9,6,Obesity,None documented,Furosemide,None
+10,6,Diabetes,Surgical Site,Lisinopril,IV fluids
+11,6,None,Skin/Soft Tissue,None,Antibiotic course
+12,6,Diabetes,Abdominal,Prednisone,Dialysis
+13,7,Cancer (active),Bloodstream,Insulin,Dialysis
+14,7,Cancer (active),Abdominal,Furosemide,Dialysis
+15,7,Cancer (active),Respiratory,Insulin,None
+16,8,Diabetes,Bloodstream,Amlodipine,Physiotherapy
+17,8,Chronic Kidney Disease,Abdominal,Prednisone,Oxygen therapy
+18,8,Diabetes,Abdominal,Prednisone,Antibiotic course
+19,9,Hypertension,None documented,Insulin,None
+20,9,Hypertension,Abdominal,Warfarin,Antibiotic course
+21,9,Hypertension,Abdominal,Salbutamol inhaler,IV fluids
+22,9,Liver Disease,Unknown source,Insulin,IV fluids
+23,10,COPD,Unknown source,Salbutamol inhaler,Surgery (recent)
+24,11,Diabetes,Bloodstream,Lisinopril,IV fluids
+25,12,Liver Disease,Abdominal,Insulin,Oxygen therapy
+26,12,Liver Disease,Surgical Site,Atorvastatin,Surgery (recent)
+27,12,Liver Disease,Surgical Site,Metformin,None
+28,12,Liver Disease,Urinary Tract,None,Oxygen therapy
+29,13,Obesity,Skin/Soft Tissue,Amlodipine,Oxygen therapy
+30,13,Coronary Artery Disease,Respiratory,Metformin,None
+31,13,Immunosuppression,Bloodstream,Metformin,Dialysis
+32,13,Immunosuppression,Abdominal,None,Antibiotic course
+33,14,Cancer (active),Respiratory,Furosemide,Surgery (recent)
+34,14,Cancer (active),Urinary Tract,Lisinopril,Surgery (recent)
+35,15,Liver Disease,Abdominal,Lisinopril,Dialysis
+36,15,COPD,Bloodstream,Amlodipine,Dialysis
+37,16,Liver Disease,Respiratory,Furosemide,Oxygen therapy
+38,16,Chronic Kidney Disease,Surgical Site,Lisinopril,Antibiotic course
+39,16,Obesity,Urinary Tract,Atorvastatin,Antibiotic course
+40,17,None,Urinary Tract,Salbutamol inhaler,Oxygen therapy
+41,18,Chronic Kidney Disease,Bloodstream,Warfarin,None
+42,18,Chronic Kidney Disease,Unknown source,Salbutamol inhaler,Physiotherapy
+43,18,Chronic Kidney Disease,Skin/Soft Tissue,Furosemide,Antibiotic course
+44,19,Liver Disease,Surgical Site,Warfarin,Surgery (recent)
+45,19,Liver Disease,Bloodstream,Prednisone,Dialysis
+46,19,Diabetes,Bloodstream,Lisinopril,IV fluids
+47,20,Coronary Artery Disease,Surgical Site,Metformin,Physiotherapy
+48,20,Coronary Artery Disease,Abdominal,Amlodipine,Surgery (recent)
+49,20,Cancer (active),Abdominal,Metformin,Surgery (recent)
+50,21,None,Bloodstream,Prednisone,Oxygen therapy
+51,22,Liver Disease,Abdominal,Warfarin,IV fluids
+52,23,Cancer (active),Skin/Soft Tissue,Atorvastatin,None
+53,24,Liver Disease,Abdominal,Prednisone,Dialysis
+54,25,Hypertension,Respiratory,Atorvastatin,Dialysis
+55,25,Hypertension,Abdominal,Amlodipine,Antibiotic course
+56,26,Liver Disease,Respiratory,Metformin,Physiotherapy
+57,27,COPD,None documented,Prednisone,None
+58,27,COPD,Abdominal,Amlodipine,Dialysis
+59,28,Liver Disease,Unknown source,Atorvastatin,Antibiotic course
+60,29,Immunosuppression,None documented,Lisinopril,Physiotherapy
+61,30,Diabetes,Bloodstream,Metformin,Oxygen therapy
+62,30,COPD,Bloodstream,Salbutamol inhaler,Oxygen therapy
+63,30,Diabetes,Surgical Site,Lisinopril,None
+64,30,Liver Disease,Skin/Soft Tissue,Metformin,Oxygen therapy
+65,31,Coronary Artery Disease,Unknown source,Furosemide,Physiotherapy
+66,31,Coronary Artery Disease,Bloodstream,Prednisone,Dialysis
+67,31,Coronary Artery Disease,Skin/Soft Tissue,Furosemide,IV fluids
+68,31,Coronary Artery Disease,None documented,Furosemide,Antibiotic course
+69,32,Diabetes,None documented,None,Antibiotic course
+70,32,Cancer (active),Respiratory,Warfarin,None
+71,32,Chronic Kidney Disease,Abdominal,Warfarin,Dialysis
+72,32,Hypertension,Surgical Site,None,IV fluids
+73,33,Liver Disease,Skin/Soft Tissue,Metformin,Surgery (recent)
+74,34,Diabetes,Unknown source,Amlodipine,Physiotherapy
+75,35,Chronic Kidney Disease,Skin/Soft Tissue,Insulin,IV fluids
+76,36,Immunosuppression,Bloodstream,Warfarin,Oxygen therapy
+77,36,Immunosuppression,None documented,Lisinopril,IV fluids
+78,36,Immunosuppression,None documented,Prednisone,IV fluids
+79,37,Cancer (active),Surgical Site,Lisinopril,None
+80,37,Obesity,Respiratory,Insulin,IV fluids
+81,37,Obesity,Surgical Site,Metformin,None
+82,38,COPD,Skin/Soft Tissue,Salbutamol inhaler,Dialysis
+83,38,COPD,Bloodstream,Insulin,Dialysis
+84,38,COPD,Surgical Site,Furosemide,Surgery (recent)
+85,38,COPD,Bloodstream,Warfarin,None
+86,39,Cancer (active),Abdominal,Metformin,Surgery (recent)
+87,40,COPD,Abdominal,Insulin,Physiotherapy
+88,41,Coronary Artery Disease,Respiratory,Atorvastatin,Antibiotic course
+89,41,Coronary Artery Disease,Surgical Site,Metformin,None
+90,41,Coronary Artery Disease,Unknown source,Atorvastatin,Surgery (recent)
+91,41,Coronary Artery Disease,None documented,Furosemide,Antibiotic course
+92,42,Liver Disease,Unknown source,Salbutamol inhaler,Physiotherapy
+93,42,Liver Disease,Surgical Site,Amlodipine,Surgery (recent)
+94,42,Liver Disease,Skin/Soft Tissue,None,Physiotherapy
+95,43,Chronic Kidney Disease,Bloodstream,Warfarin,Oxygen therapy
+96,43,Chronic Kidney Disease,Surgical Site,Salbutamol inhaler,Dialysis
+97,43,Chronic Kidney Disease,Abdominal,None,Oxygen therapy
+98,44,COPD,None documented,Amlodipine,Surgery (recent)
+99,44,None,Abdominal,Furosemide,IV fluids
+100,44,COPD,Skin/Soft Tissue,None,Physiotherapy
+101,45,COPD,Unknown source,None,Oxygen therapy
+102,45,Immunosuppression,Abdominal,Lisinopril,Dialysis
+103,46,Immunosuppression,Skin/Soft Tissue,Furosemide,Physiotherapy
+104,47,Hypertension,Skin/Soft Tissue,Metformin,None
+105,47,Hypertension,Surgical Site,Metformin,IV fluids
+106,48,COPD,Surgical Site,Metformin,Antibiotic course
+107,48,COPD,Skin/Soft Tissue,Lisinopril,Physiotherapy
+108,49,Liver Disease,Bloodstream,Prednisone,IV fluids
+109,50,Immunosuppression,None documented,Atorvastatin,Oxygen therapy
+110,50,Chronic Kidney Disease,Respiratory,None,Surgery (recent)
+111,50,Liver Disease,Unknown source,Prednisone,None
+112,50,Chronic Kidney Disease,Respiratory,Prednisone,None
+113,51,Chronic Kidney Disease,Abdominal,Warfarin,Surgery (recent)
+114,51,Chronic Kidney Disease,Respiratory,Salbutamol inhaler,Antibiotic course
+115,51,Diabetes,Skin/Soft Tissue,Atorvastatin,Oxygen therapy
+116,51,Coronary Artery Disease,Skin/Soft Tissue,Amlodipine,Oxygen therapy
+117,52,Immunosuppression,Bloodstream,Warfarin,Antibiotic course
+118,52,None,Unknown source,Atorvastatin,Physiotherapy
+119,53,Immunosuppression,Bloodstream,Amlodipine,Oxygen therapy
+120,53,Hypertension,Bloodstream,Insulin,Oxygen therapy
+121,53,Coronary Artery Disease,Urinary Tract,Amlodipine,Surgery (recent)
+122,54,Cancer (active),Respiratory,Lisinopril,Surgery (recent)
+123,55,None,Bloodstream,Furosemide,None
+124,55,Chronic Kidney Disease,Urinary Tract,None,Physiotherapy
+125,56,Immunosuppression,Skin/Soft Tissue,Insulin,Antibiotic course
+126,57,Cancer (active),Urinary Tract,None,Antibiotic course
+127,58,None,Skin/Soft Tissue,None,Surgery (recent)
+128,59,COPD,Unknown source,Warfarin,Physiotherapy
+129,59,Immunosuppression,Bloodstream,Furosemide,Antibiotic course
+130,59,Immunosuppression,Unknown source,Insulin,Antibiotic course
+131,59,Immunosuppression,Unknown source,Prednisone,None
+132,60,Immunosuppression,Urinary Tract,Warfarin,None
+133,60,Immunosuppression,Bloodstream,Atorvastatin,Oxygen therapy
+134,61,Diabetes,Bloodstream,Atorvastatin,Dialysis
+135,61,Diabetes,Urinary Tract,Amlodipine,None
+136,62,Obesity,None documented,Lisinopril,Surgery (recent)
+137,63,Hypertension,Abdominal,Prednisone,IV fluids
+138,63,COPD,Respiratory,Insulin,Antibiotic course
+139,63,COPD,Respiratory,Insulin,Oxygen therapy
+140,63,Hypertension,Abdominal,Warfarin,None
+141,64,COPD,Abdominal,Insulin,Antibiotic course
+142,64,COPD,Bloodstream,Prednisone,Oxygen therapy
+143,64,COPD,Urinary Tract,Atorvastatin,IV fluids
+144,64,COPD,Urinary Tract,Salbutamol inhaler,Antibiotic course
+145,65,Liver Disease,Surgical Site,Furosemide,Surgery (recent)
+146,65,Immunosuppression,Bloodstream,Salbutamol inhaler,IV fluids
+147,65,Obesity,None documented,Insulin,IV fluids
+148,66,Liver Disease,Respiratory,Furosemide,Antibiotic course
+149,66,Liver Disease,Skin/Soft Tissue,None,Antibiotic course
+150,67,Immunosuppression,Bloodstream,None,IV fluids
+151,67,Immunosuppression,Unknown source,Furosemide,Surgery (recent)
+152,67,Immunosuppression,None documented,None,Oxygen therapy
+153,68,Obesity,Urinary Tract,Lisinopril,Oxygen therapy
+154,69,Cancer (active),Unknown source,None,IV fluids
+155,69,Liver Disease,Bloodstream,Warfarin,Physiotherapy
+156,69,Cancer (active),Bloodstream,Lisinopril,None
+157,70,Liver Disease,Bloodstream,Prednisone,Dialysis
+158,70,Liver Disease,Surgical Site,Insulin,Oxygen therapy
+159,71,Hypertension,Surgical Site,Warfarin,Oxygen therapy
+160,72,Chronic Kidney Disease,Skin/Soft Tissue,Warfarin,None
+161,72,COPD,Unknown source,Salbutamol inhaler,Antibiotic course
+162,72,Diabetes,Respiratory,Warfarin,Oxygen therapy
+163,72,Chronic Kidney Disease,Surgical Site,Salbutamol inhaler,Oxygen therapy
+164,73,Chronic Kidney Disease,Unknown source,Lisinopril,None
+165,73,Chronic Kidney Disease,Surgical Site,Salbutamol inhaler,Antibiotic course
+166,73,Chronic Kidney Disease,None documented,Furosemide,Physiotherapy
+167,73,Hypertension,None documented,Metformin,None
+168,74,Obesity,Surgical Site,None,Oxygen therapy
+169,74,Obesity,Respiratory,Prednisone,Oxygen therapy
+170,74,Obesity,Unknown source,Atorvastatin,Surgery (recent)
+171,75,COPD,Surgical Site,Prednisone,Oxygen therapy
+172,76,Cancer (active),Urinary Tract,Insulin,Dialysis
+173,76,Cancer (active),Urinary Tract,Salbutamol inhaler,Dialysis
+174,77,Coronary Artery Disease,Urinary Tract,Metformin,Physiotherapy
+175,78,Chronic Kidney Disease,Unknown source,Atorvastatin,None
+176,78,Diabetes,Skin/Soft Tissue,Warfarin,Dialysis
+177,79,Diabetes,Bloodstream,Insulin,Dialysis
+178,80,Coronary Artery Disease,Urinary Tract,Lisinopril,IV fluids
+179,81,Liver Disease,Surgical Site,Insulin,Antibiotic course
+180,81,Liver Disease,Skin/Soft Tissue,Metformin,Oxygen therapy
+181,82,Liver Disease,None documented,Warfarin,Oxygen therapy
+182,82,Cancer (active),Surgical Site,Lisinopril,None
+183,83,Immunosuppression,Urinary Tract,Warfarin,Dialysis
+184,83,Chronic Kidney Disease,Bloodstream,Warfarin,Physiotherapy
+185,83,Chronic Kidney Disease,Unknown source,Lisinopril,Oxygen therapy
+186,83,Immunosuppression,Surgical Site,Lisinopril,Antibiotic course
+187,84,Hypertension,Surgical Site,Furosemide,None
+188,85,Hypertension,Abdominal,Atorvastatin,Surgery (recent)
+189,85,Obesity,Skin/Soft Tissue,Salbutamol inhaler,Antibiotic course
+190,85,Diabetes,Urinary Tract,Insulin,Dialysis
+191,86,Chronic Kidney Disease,Surgical Site,None,Surgery (recent)
+192,86,COPD,Urinary Tract,Warfarin,Physiotherapy
+193,87,Diabetes,Unknown source,Prednisone,Dialysis
+194,87,Liver Disease,None documented,Warfarin,Physiotherapy
+195,87,Chronic Kidney Disease,Unknown source,Furosemide,Dialysis
+196,88,Liver Disease,None documented,Furosemide,Antibiotic course
+197,88,Liver Disease,Respiratory,Warfarin,None
+198,88,Liver Disease,Abdominal,Insulin,Oxygen therapy
+199,88,Liver Disease,Respiratory,Prednisone,IV fluids
+200,89,Chronic Kidney Disease,None documented,Metformin,Physiotherapy
+201,89,Chronic Kidney Disease,None documented,Insulin,Antibiotic course
+202,90,Chronic Kidney Disease,Surgical Site,Insulin,Surgery (recent)
+203,90,Chronic Kidney Disease,None documented,Atorvastatin,None
+204,90,Chronic Kidney Disease,Respiratory,Metformin,Dialysis
+205,90,Chronic Kidney Disease,Respiratory,Prednisone,Surgery (recent)
+206,91,Hypertension,Unknown source,Prednisone,Surgery (recent)
+207,91,Chronic Kidney Disease,None documented,Salbutamol inhaler,IV fluids
+208,91,COPD,Bloodstream,Insulin,IV fluids
+209,92,Chronic Kidney Disease,Surgical Site,Warfarin,Oxygen therapy
+210,93,Obesity,None documented,Atorvastatin,Oxygen therapy
+211,93,Diabetes,Bloodstream,Prednisone,Dialysis
+212,93,Coronary Artery Disease,Abdominal,Lisinopril,Dialysis
+213,94,Cancer (active),Respiratory,Warfarin,IV fluids
+214,94,Cancer (active),Urinary Tract,Amlodipine,Dialysis
+215,94,Cancer (active),Surgical Site,Metformin,IV fluids
+216,95,COPD,Urinary Tract,None,Physiotherapy
+217,95,Cancer (active),None documented,Lisinopril,None
+218,96,Obesity,Abdominal,Lisinopril,Oxygen therapy
+219,96,Immunosuppression,Skin/Soft Tissue,Warfarin,Antibiotic course
+220,96,Liver Disease,None documented,Lisinopril,Dialysis
+221,97,None,Abdominal,Metformin,Oxygen therapy
+222,97,COPD,None documented,Prednisone,Oxygen therapy
+223,97,Coronary Artery Disease,Bloodstream,Furosemide,Dialysis
+224,97,None,Respiratory,Atorvastatin,Antibiotic course
+225,98,Immunosuppression,Respiratory,Amlodipine,Physiotherapy
+226,99,Obesity,Urinary Tract,Salbutamol inhaler,Physiotherapy
+227,99,Chronic Kidney Disease,Unknown source,Metformin,Physiotherapy
+228,99,Obesity,Respiratory,Furosemide,IV fluids
+229,100,Liver Disease,Urinary Tract,Prednisone,Surgery (recent)
+230,101,Diabetes,Surgical Site,Salbutamol inhaler,Antibiotic course
+231,102,Hypertension,Unknown source,Metformin,Surgery (recent)
+232,102,Hypertension,Surgical Site,Salbutamol inhaler,Oxygen therapy
+233,102,Hypertension,Abdominal,Furosemide,Surgery (recent)
+234,103,Obesity,Urinary Tract,Insulin,Physiotherapy
+235,103,Chronic Kidney Disease,Urinary Tract,Lisinopril,Antibiotic course
+236,104,Hypertension,None documented,Prednisone,Physiotherapy
+237,104,Hypertension,Unknown source,None,Physiotherapy
+238,105,Liver Disease,Respiratory,Salbutamol inhaler,Oxygen therapy
+239,105,Liver Disease,Abdominal,Furosemide,Physiotherapy
+240,106,Hypertension,Respiratory,Atorvastatin,Physiotherapy
+241,106,Hypertension,None documented,Furosemide,Antibiotic course
+242,107,Chronic Kidney Disease,Unknown source,Metformin,Dialysis
+243,108,Cancer (active),Urinary Tract,Salbutamol inhaler,Antibiotic course
+244,108,Hypertension,None documented,Atorvastatin,None
+245,108,Cancer (active),Bloodstream,Insulin,Physiotherapy
+246,108,Hypertension,Urinary Tract,Insulin,Antibiotic course
+247,109,Obesity,Respiratory,None,Dialysis
+248,109,Cancer (active),Unknown source,Insulin,IV fluids
+249,109,Obesity,Urinary Tract,Amlodipine,Physiotherapy
+250,110,Cancer (active),Abdominal,Atorvastatin,Dialysis
+251,110,Cancer (active),None documented,Warfarin,Physiotherapy
+252,110,Cancer (active),Urinary Tract,None,Surgery (recent)
+253,111,Hypertension,Abdominal,Insulin,IV fluids
+254,111,Hypertension,Abdominal,Metformin,Physiotherapy
+255,111,Hypertension,None documented,None,Oxygen therapy
+256,111,Hypertension,Skin/Soft Tissue,Metformin,Antibiotic course
+257,112,Hypertension,Skin/Soft Tissue,Amlodipine,Surgery (recent)
+258,112,Immunosuppression,Bloodstream,Salbutamol inhaler,Physiotherapy
+259,113,Coronary Artery Disease,Surgical Site,None,Surgery (recent)
+260,113,Coronary Artery Disease,Respiratory,Atorvastatin,IV fluids
+261,114,Chronic Kidney Disease,Surgical Site,None,Dialysis
+262,114,Chronic Kidney Disease,Bloodstream,Salbutamol inhaler,IV fluids
+263,114,Chronic Kidney Disease,Skin/Soft Tissue,Metformin,Dialysis
+264,115,Coronary Artery Disease,Surgical Site,Amlodipine,IV fluids
+265,115,Diabetes,Abdominal,None,None
+266,115,Coronary Artery Disease,Respiratory,Salbutamol inhaler,Antibiotic course
+267,116,Immunosuppression,Urinary Tract,Lisinopril,None
+268,116,Chronic Kidney Disease,None documented,Salbutamol inhaler,Surgery (recent)
+269,117,Hypertension,Bloodstream,Salbutamol inhaler,None
+270,117,Liver Disease,Urinary Tract,Furosemide,Surgery (recent)
+271,117,Hypertension,Respiratory,Prednisone,Physiotherapy
+272,117,Hypertension,Surgical Site,Lisinopril,None
+273,118,Obesity,Bloodstream,None,Dialysis
+274,118,Obesity,Skin/Soft Tissue,Furosemide,Antibiotic course
+275,119,Chronic Kidney Disease,Skin/Soft Tissue,Atorvastatin,Dialysis
+276,119,Immunosuppression,None documented,Salbutamol inhaler,IV fluids
+277,119,Obesity,Skin/Soft Tissue,Metformin,Dialysis
+278,119,Obesity,Urinary Tract,Warfarin,Antibiotic course
+279,120,Diabetes,Skin/Soft Tissue,None,Surgery (recent)
+280,121,COPD,None documented,Metformin,None
+281,122,Diabetes,Skin/Soft Tissue,Warfarin,IV fluids
+282,122,Diabetes,Bloodstream,Salbutamol inhaler,IV fluids
+283,122,Diabetes,Abdominal,Atorvastatin,Oxygen therapy
+284,122,Diabetes,Skin/Soft Tissue,Warfarin,Oxygen therapy
+285,123,Coronary Artery Disease,Unknown source,Amlodipine,Physiotherapy
+286,123,Hypertension,Abdominal,Furosemide,Oxygen therapy
+287,123,Coronary Artery Disease,Skin/Soft Tissue,Lisinopril,Antibiotic course
+288,123,Hypertension,Urinary Tract,Insulin,Surgery (recent)
+289,124,Immunosuppression,Bloodstream,Insulin,IV fluids
+290,125,Cancer (active),Bloodstream,Insulin,Physiotherapy
+291,125,Liver Disease,Skin/Soft Tissue,Metformin,Surgery (recent)
+292,125,Cancer (active),Skin/Soft Tissue,Lisinopril,None
+293,126,Cancer (active),None documented,None,Oxygen therapy
+294,126,Liver Disease,Respiratory,Prednisone,Physiotherapy
+295,126,Obesity,Respiratory,Prednisone,Surgery (recent)
+296,126,Cancer (active),Unknown source,Amlodipine,None
+297,127,COPD,Bloodstream,Furosemide,Surgery (recent)
+298,128,Chronic Kidney Disease,Surgical Site,Metformin,Oxygen therapy
+299,128,Chronic Kidney Disease,Bloodstream,Prednisone,Dialysis
+300,129,Chronic Kidney Disease,Abdominal,Insulin,Antibiotic course
+301,130,Cancer (active),Surgical Site,Insulin,IV fluids
+302,130,Cancer (active),Unknown source,Metformin,Surgery (recent)
+303,130,None,Respiratory,Lisinopril,Oxygen therapy
+304,131,Cancer (active),None documented,Salbutamol inhaler,Oxygen therapy
+305,132,Hypertension,None documented,Metformin,IV fluids
+306,132,Hypertension,Bloodstream,Warfarin,IV fluids
+307,133,Liver Disease,Urinary Tract,None,Oxygen therapy
+308,134,Chronic Kidney Disease,Urinary Tract,Furosemide,Dialysis
+309,134,Chronic Kidney Disease,Skin/Soft Tissue,Furosemide,None
+310,134,Liver Disease,Unknown source,Salbutamol inhaler,None
+311,134,Chronic Kidney Disease,Urinary Tract,Insulin,Dialysis
+312,135,Immunosuppression,Surgical Site,Atorvastatin,Antibiotic course
+313,135,Hypertension,Respiratory,Warfarin,Oxygen therapy
+314,135,Immunosuppression,Bloodstream,Lisinopril,Surgery (recent)
+315,135,Coronary Artery Disease,None documented,Atorvastatin,None
+316,136,Cancer (active),Respiratory,Lisinopril,None
+317,136,Cancer (active),Surgical Site,Atorvastatin,Antibiotic course
+318,136,Cancer (active),Skin/Soft Tissue,Insulin,Dialysis
+319,136,Cancer (active),None documented,Metformin,Antibiotic course
+320,137,Liver Disease,Skin/Soft Tissue,Furosemide,None
+321,138,Cancer (active),Urinary Tract,None,Surgery (recent)
+322,138,Chronic Kidney Disease,Bloodstream,Atorvastatin,Dialysis
+323,138,Cancer (active),Bloodstream,Warfarin,IV fluids
+324,139,Liver Disease,Surgical Site,Warfarin,Dialysis
+325,139,Liver Disease,Unknown source,None,None
+326,140,Diabetes,Skin/Soft Tissue,Prednisone,Antibiotic course
+327,140,Diabetes,Bloodstream,None,Dialysis
+328,140,Diabetes,Respiratory,Metformin,Antibiotic course
+329,140,Diabetes,Surgical Site,Warfarin,None
+330,141,Coronary Artery Disease,None documented,Amlodipine,Surgery (recent)
+331,141,Hypertension,Surgical Site,Insulin,None
+332,141,Coronary Artery Disease,Respiratory,Metformin,None
+333,142,Coronary Artery Disease,None documented,Furosemide,Dialysis
+334,142,Coronary Artery Disease,Surgical Site,Lisinopril,Oxygen therapy
+335,142,Coronary Artery Disease,Unknown source,Lisinopril,Dialysis
+336,143,Diabetes,Bloodstream,Atorvastatin,Dialysis
+337,144,Obesity,Urinary Tract,Atorvastatin,Antibiotic course
+338,144,Obesity,Unknown source,Warfarin,Antibiotic course
+339,144,Obesity,None documented,Lisinopril,None
+340,144,Obesity,Skin/Soft Tissue,Salbutamol inhaler,Antibiotic course
+341,145,Obesity,Abdominal,Atorvastatin,IV fluids
+342,146,Chronic Kidney Disease,Surgical Site,Prednisone,Antibiotic course
+343,146,Chronic Kidney Disease,Bloodstream,Prednisone,None
+344,146,Immunosuppression,Abdominal,Amlodipine,None
+345,147,Coronary Artery Disease,Surgical Site,Warfarin,Surgery (recent)
+346,147,Obesity,Skin/Soft Tissue,Lisinopril,IV fluids
+347,147,Coronary Artery Disease,Respiratory,Prednisone,None
+348,147,Coronary Artery Disease,Skin/Soft Tissue,Salbutamol inhaler,Physiotherapy
+349,148,Chronic Kidney Disease,Skin/Soft Tissue,Warfarin,Physiotherapy
+350,149,Coronary Artery Disease,Surgical Site,Insulin,Surgery (recent)
+351,149,Liver Disease,Abdominal,Lisinopril,IV fluids
+352,150,Coronary Artery Disease,Respiratory,Metformin,Dialysis
+353,150,Coronary Artery Disease,Respiratory,Warfarin,Physiotherapy
+354,150,Coronary Artery Disease,None documented,Lisinopril,Dialysis
+355,151,Chronic Kidney Disease,Abdominal,Atorvastatin,Physiotherapy
+356,151,Chronic Kidney Disease,Bloodstream,Warfarin,Oxygen therapy
+357,152,Chronic Kidney Disease,Urinary Tract,Warfarin,None
+358,152,Chronic Kidney Disease,Urinary Tract,Salbutamol inhaler,Surgery (recent)
+359,153,Hypertension,Surgical Site,Amlodipine,Dialysis
+360,153,Hypertension,Respiratory,Metformin,Antibiotic course
+361,154,None,Respiratory,Lisinopril,Dialysis
+362,154,Obesity,None documented,None,None
+363,154,Cancer (active),Abdominal,Insulin,Physiotherapy
+364,154,None,Surgical Site,Furosemide,IV fluids
+365,155,Hypertension,None documented,Atorvastatin,Antibiotic course
+366,156,Obesity,Urinary Tract,Lisinopril,Physiotherapy
+367,156,Coronary Artery Disease,Skin/Soft Tissue,Warfarin,None
+368,157,Hypertension,Unknown source,Furosemide,Antibiotic course
+369,157,Hypertension,Unknown source,Salbutamol inhaler,Oxygen therapy
+370,157,Obesity,Unknown source,None,Physiotherapy
+371,157,Hypertension,Abdominal,Furosemide,Antibiotic course
+372,158,Hypertension,Respiratory,Warfarin,Dialysis
+373,158,Hypertension,Abdominal,Insulin,Surgery (recent)
+374,158,COPD,Urinary Tract,Furosemide,Dialysis
+375,159,COPD,Respiratory,Lisinopril,Surgery (recent)
+376,159,COPD,None documented,Salbutamol inhaler,Dialysis
+377,159,COPD,Bloodstream,None,Surgery (recent)
+378,160,Coronary Artery Disease,Unknown source,Furosemide,Physiotherapy
+379,160,Coronary Artery Disease,Abdominal,Insulin,Oxygen therapy
+380,160,Obesity,Skin/Soft Tissue,Salbutamol inhaler,IV fluids
+381,160,Obesity,Surgical Site,Insulin,Surgery (recent)
+382,161,Hypertension,Urinary Tract,Amlodipine,IV fluids
+383,161,Hypertension,Urinary Tract,Warfarin,None
+384,162,Obesity,Bloodstream,Lisinopril,None
+385,163,Immunosuppression,Urinary Tract,Atorvastatin,None
+386,164,Hypertension,Respiratory,Furosemide,IV fluids
+387,164,Hypertension,Surgical Site,Furosemide,IV fluids
+388,164,Hypertension,Unknown source,Lisinopril,Antibiotic course
+389,164,Hypertension,Unknown source,Prednisone,Antibiotic course
+390,165,Chronic Kidney Disease,None documented,Atorvastatin,Antibiotic course
+391,165,Chronic Kidney Disease,Skin/Soft Tissue,Lisinopril,None
+392,165,Chronic Kidney Disease,None documented,Amlodipine,None
+393,166,Hypertension,Abdominal,Lisinopril,Oxygen therapy
+394,166,Hypertension,Unknown source,Prednisone,Dialysis
+395,166,Hypertension,Unknown source,Salbutamol inhaler,Physiotherapy
+396,166,Hypertension,Respiratory,Atorvastatin,Dialysis
+397,167,Diabetes,Urinary Tract,Atorvastatin,None
+398,167,Hypertension,Respiratory,None,Physiotherapy
+399,168,Chronic Kidney Disease,Skin/Soft Tissue,Atorvastatin,None
+400,168,Chronic Kidney Disease,Bloodstream,Salbutamol inhaler,Physiotherapy
+401,169,Hypertension,Bloodstream,Warfarin,Dialysis
+402,170,Diabetes,None documented,Lisinopril,Antibiotic course
+403,170,Chronic Kidney Disease,Abdominal,Insulin,Physiotherapy
+404,170,Obesity,Bloodstream,Salbutamol inhaler,IV fluids
+405,171,Immunosuppression,Unknown source,Insulin,None
+406,171,Immunosuppression,None documented,Lisinopril,None
+407,171,Immunosuppression,Respiratory,None,None
+408,171,Immunosuppression,Bloodstream,Furosemide,Physiotherapy
+409,172,Hypertension,Bloodstream,Prednisone,IV fluids
+410,172,Diabetes,Abdominal,Lisinopril,Surgery (recent)
+411,172,Obesity,Bloodstream,Warfarin,None
+412,172,COPD,Skin/Soft Tissue,Warfarin,Oxygen therapy
+413,173,Chronic Kidney Disease,Respiratory,Salbutamol inhaler,Antibiotic course
+414,173,Chronic Kidney Disease,None documented,Insulin,Antibiotic course
+415,173,Chronic Kidney Disease,Respiratory,Metformin,Dialysis
+416,173,Chronic Kidney Disease,Abdominal,Metformin,Physiotherapy
+417,174,Cancer (active),None documented,Furosemide,Physiotherapy
+418,174,Immunosuppression,Skin/Soft Tissue,Metformin,IV fluids
+419,174,Cancer (active),Skin/Soft Tissue,Warfarin,None
+420,174,Chronic Kidney Disease,Bloodstream,Salbutamol inhaler,Surgery (recent)
+421,175,Hypertension,Surgical Site,Prednisone,Antibiotic course
+422,175,Chronic Kidney Disease,Abdominal,Atorvastatin,IV fluids
+423,175,Chronic Kidney Disease,Respiratory,None,None
+424,176,Chronic Kidney Disease,Urinary Tract,Lisinopril,Antibiotic course
+425,176,Chronic Kidney Disease,Unknown source,Insulin,Dialysis
+426,176,Chronic Kidney Disease,Urinary Tract,Furosemide,Surgery (recent)
+427,177,Hypertension,Unknown source,Insulin,IV fluids
+428,177,Hypertension,Urinary Tract,Insulin,Antibiotic course
+429,177,Hypertension,Respiratory,None,Antibiotic course
+430,178,Immunosuppression,Surgical Site,Prednisone,Dialysis
+431,178,Immunosuppression,Bloodstream,None,Antibiotic course
+432,178,Immunosuppression,None documented,Atorvastatin,Oxygen therapy
+433,179,Coronary Artery Disease,Urinary Tract,Warfarin,Surgery (recent)
+434,179,Obesity,Unknown source,Amlodipine,Dialysis
+435,179,Obesity,Surgical Site,Warfarin,Dialysis
+436,180,Diabetes,Unknown source,Metformin,Surgery (recent)
+437,181,Coronary Artery Disease,None documented,None,Dialysis
+438,182,Coronary Artery Disease,Surgical Site,Metformin,Antibiotic course
+439,182,Liver Disease,Unknown source,Amlodipine,Oxygen therapy
+440,182,Coronary Artery Disease,Surgical Site,Furosemide,Antibiotic course
+441,183,Chronic Kidney Disease,None documented,Furosemide,Surgery (recent)
+442,184,Obesity,Bloodstream,Amlodipine,Oxygen therapy
+443,184,Obesity,Respiratory,Lisinopril,Dialysis
+444,185,Diabetes,Surgical Site,Metformin,Surgery (recent)
+445,185,Obesity,Respiratory,Insulin,None
+446,185,Cancer (active),Abdominal,None,Surgery (recent)
+447,185,Obesity,Bloodstream,Warfarin,IV fluids
+448,186,Diabetes,None documented,None,Surgery (recent)
+449,186,Diabetes,Unknown source,Insulin,None
+450,186,Cancer (active),Respiratory,Insulin,Surgery (recent)
+451,186,Immunosuppression,Skin/Soft Tissue,Salbutamol inhaler,Physiotherapy
+452,187,Cancer (active),None documented,Warfarin,IV fluids
+453,187,Cancer (active),Respiratory,Furosemide,Oxygen therapy
+454,187,Cancer (active),Surgical Site,Warfarin,Surgery (recent)
+455,187,Cancer (active),Skin/Soft Tissue,Lisinopril,None
+456,188,Cancer (active),Abdominal,Amlodipine,None
+457,188,Cancer (active),Unknown source,Lisinopril,Physiotherapy
+458,189,Obesity,Abdominal,Metformin,Physiotherapy
+459,190,Liver Disease,Bloodstream,Furosemide,Antibiotic course
+460,191,COPD,Unknown source,Amlodipine,Physiotherapy
+461,191,COPD,Abdominal,Insulin,Physiotherapy
+462,192,Diabetes,None documented,Warfarin,Surgery (recent)
+463,192,Immunosuppression,Skin/Soft Tissue,Salbutamol inhaler,Antibiotic course
+464,192,Immunosuppression,Surgical Site,Prednisone,Antibiotic course
+465,192,Diabetes,None documented,Prednisone,Dialysis
+466,193,Immunosuppression,Bloodstream,Warfarin,Antibiotic course
+467,193,Immunosuppression,Unknown source,Furosemide,IV fluids
+468,194,Hypertension,None documented,Salbutamol inhaler,Surgery (recent)
+469,195,Chronic Kidney Disease,Skin/Soft Tissue,Warfarin,None
+470,195,Chronic Kidney Disease,Bloodstream,Lisinopril,Surgery (recent)
+471,196,Coronary Artery Disease,Surgical Site,Insulin,Antibiotic course
+472,196,Coronary Artery Disease,None documented,Insulin,None
+473,197,Liver Disease,Respiratory,Metformin,Physiotherapy
+474,197,Liver Disease,Abdominal,Amlodipine,None
+475,197,Liver Disease,Urinary Tract,Amlodipine,Physiotherapy
+476,198,Coronary Artery Disease,Abdominal,Atorvastatin,Surgery (recent)
+477,198,Coronary Artery Disease,Unknown source,Atorvastatin,Dialysis
+478,198,Coronary Artery Disease,Surgical Site,Furosemide,Surgery (recent)
+479,198,Coronary Artery Disease,Unknown source,Metformin,Oxygen therapy
+480,199,None,Urinary Tract,Warfarin,Oxygen therapy
+481,199,Immunosuppression,Abdominal,None,IV fluids
+482,199,Liver Disease,Abdominal,Atorvastatin,None
+483,199,Cancer (active),Abdominal,Furosemide,Antibiotic course
+484,200,None,Unknown source,Warfarin,Physiotherapy
+485,200,None,Unknown source,Lisinopril,Dialysis
+486,200,Chronic Kidney Disease,Bloodstream,Lisinopril,IV fluids
+487,200,Chronic Kidney Disease,None documented,Metformin,Physiotherapy
+488,201,Diabetes,Respiratory,Furosemide,Dialysis
+489,202,Chronic Kidney Disease,Urinary Tract,None,Physiotherapy
+490,202,Obesity,Urinary Tract,Lisinopril,Surgery (recent)
+491,202,Chronic Kidney Disease,Surgical Site,Salbutamol inhaler,IV fluids
+492,203,Hypertension,Abdominal,Insulin,Oxygen therapy
+493,204,Liver Disease,Surgical Site,Furosemide,None
+494,205,COPD,Abdominal,Warfarin,Antibiotic course
+495,206,Immunosuppression,Respiratory,Warfarin,None
+496,207,Immunosuppression,Surgical Site,Furosemide,Surgery (recent)
+497,207,Immunosuppression,Surgical Site,Warfarin,Antibiotic course
+498,207,Immunosuppression,Urinary Tract,Salbutamol inhaler,Surgery (recent)
+499,207,Immunosuppression,Urinary Tract,Metformin,Dialysis
+500,208,COPD,Unknown source,Atorvastatin,IV fluids
+501,208,Diabetes,None documented,Atorvastatin,None
+502,208,COPD,Bloodstream,Prednisone,Oxygen therapy
+503,209,Chronic Kidney Disease,None documented,Warfarin,Antibiotic course
+504,209,Chronic Kidney Disease,Bloodstream,Warfarin,IV fluids
+505,209,Chronic Kidney Disease,Abdominal,Insulin,Antibiotic course
+506,209,Chronic Kidney Disease,None documented,Prednisone,Dialysis
+507,210,Cancer (active),Skin/Soft Tissue,Metformin,None
+508,210,Cancer (active),Unknown source,Furosemide,Physiotherapy
+509,210,Cancer (active),Skin/Soft Tissue,Metformin,Oxygen therapy
+510,211,Chronic Kidney Disease,Unknown source,None,Antibiotic course
+511,211,Chronic Kidney Disease,None documented,None,Dialysis
+512,211,Chronic Kidney Disease,Abdominal,None,Dialysis
+513,212,Immunosuppression,Skin/Soft Tissue,Metformin,Physiotherapy
+514,212,Cancer (active),Bloodstream,Furosemide,Surgery (recent)
+515,213,Chronic Kidney Disease,None documented,Warfarin,Antibiotic course
+516,213,Chronic Kidney Disease,Urinary Tract,Prednisone,None
+517,213,Chronic Kidney Disease,Skin/Soft Tissue,Lisinopril,IV fluids
+518,214,Diabetes,Urinary Tract,Metformin,Surgery (recent)
+519,215,Coronary Artery Disease,Abdominal,Amlodipine,Physiotherapy
+520,216,Liver Disease,Urinary Tract,Metformin,None
+521,216,Liver Disease,Abdominal,Salbutamol inhaler,Oxygen therapy
+522,217,Diabetes,Respiratory,Amlodipine,Physiotherapy
+523,218,Hypertension,Urinary Tract,Furosemide,IV fluids
+524,218,Chronic Kidney Disease,Skin/Soft Tissue,Amlodipine,Surgery (recent)
+525,218,Chronic Kidney Disease,None documented,Salbutamol inhaler,Dialysis
+526,219,Immunosuppression,Bloodstream,Metformin,None
+527,220,Hypertension,Urinary Tract,Furosemide,Oxygen therapy
+528,220,Immunosuppression,None documented,Metformin,Dialysis
+529,221,Chronic Kidney Disease,Urinary Tract,Prednisone,Dialysis
+530,221,Chronic Kidney Disease,Surgical Site,Metformin,Dialysis
+531,221,Chronic Kidney Disease,Abdominal,Amlodipine,Dialysis
+532,221,Chronic Kidney Disease,Urinary Tract,Metformin,Antibiotic course
+533,222,Cancer (active),Bloodstream,Insulin,Dialysis
+534,222,Cancer (active),Abdominal,Warfarin,Surgery (recent)
+535,222,Chronic Kidney Disease,Unknown source,Furosemide,Oxygen therapy
+536,223,Liver Disease,Skin/Soft Tissue,Insulin,Physiotherapy
+537,224,Chronic Kidney Disease,Surgical Site,Amlodipine,Oxygen therapy
+538,225,Liver Disease,Respiratory,Lisinopril,Surgery (recent)
+539,225,Diabetes,Abdominal,Salbutamol inhaler,IV fluids
+540,225,Hypertension,Urinary Tract,Lisinopril,Antibiotic course
+541,226,Chronic Kidney Disease,Bloodstream,Salbutamol inhaler,Oxygen therapy
+542,227,Obesity,None documented,Salbutamol inhaler,Dialysis
+543,228,Cancer (active),Abdominal,Salbutamol inhaler,None
+544,228,Chronic Kidney Disease,Unknown source,Insulin,Dialysis
+545,229,COPD,Unknown source,Insulin,IV fluids
+546,229,Chronic Kidney Disease,Skin/Soft Tissue,Prednisone,Oxygen therapy
+547,230,COPD,Unknown source,Salbutamol inhaler,Antibiotic course
+548,230,COPD,Abdominal,Insulin,IV fluids
+549,230,COPD,Respiratory,Prednisone,None
+550,231,Hypertension,Skin/Soft Tissue,Salbutamol inhaler,Physiotherapy
+551,232,Coronary Artery Disease,Unknown source,Atorvastatin,Physiotherapy
+552,233,COPD,Bloodstream,Atorvastatin,Surgery (recent)
+553,234,Coronary Artery Disease,Skin/Soft Tissue,Lisinopril,Physiotherapy
+554,235,Immunosuppression,Bloodstream,Atorvastatin,Oxygen therapy
+555,235,Chronic Kidney Disease,None documented,Warfarin,IV fluids
+556,235,Immunosuppression,Abdominal,Lisinopril,None
+557,235,Chronic Kidney Disease,Unknown source,Atorvastatin,None
+558,236,Immunosuppression,Bloodstream,Furosemide,Surgery (recent)
+559,236,Immunosuppression,None documented,Atorvastatin,Dialysis
+560,236,Immunosuppression,Abdominal,Warfarin,Antibiotic course
+561,237,None,Unknown source,Furosemide,Oxygen therapy
+562,238,Immunosuppression,Urinary Tract,Lisinopril,IV fluids
+563,238,Chronic Kidney Disease,Bloodstream,Furosemide,Dialysis
+564,238,Obesity,Surgical Site,Warfarin,Oxygen therapy
+565,239,Chronic Kidney Disease,Unknown source,Amlodipine,Oxygen therapy
+566,239,Chronic Kidney Disease,Surgical Site,None,None
+567,240,Chronic Kidney Disease,Respiratory,Atorvastatin,Surgery (recent)
+568,241,Immunosuppression,Surgical Site,Metformin,Oxygen therapy
+569,241,Immunosuppression,None documented,Furosemide,Surgery (recent)
+570,241,Immunosuppression,Surgical Site,Amlodipine,Oxygen therapy
+571,242,Diabetes,Bloodstream,Atorvastatin,IV fluids
+572,242,Obesity,Bloodstream,Warfarin,None
+573,242,COPD,Abdominal,Furosemide,Antibiotic course
+574,242,Hypertension,None documented,Metformin,None
+575,243,None,Bloodstream,Insulin,None
+576,244,Cancer (active),Unknown source,Prednisone,Antibiotic course
+577,244,Cancer (active),Respiratory,Warfarin,Oxygen therapy
+578,245,Coronary Artery Disease,None documented,Insulin,None
+579,245,Coronary Artery Disease,Surgical Site,Lisinopril,Surgery (recent)
+580,245,Coronary Artery Disease,Abdominal,Salbutamol inhaler,IV fluids
+581,245,Cancer (active),None documented,Prednisone,IV fluids
+582,246,Liver Disease,Bloodstream,None,Antibiotic course
+583,246,Liver Disease,Unknown source,Lisinopril,Dialysis
+584,247,Obesity,Bloodstream,Furosemide,Physiotherapy
+585,247,Obesity,Surgical Site,Amlodipine,Dialysis
+586,247,Obesity,None documented,Lisinopril,Dialysis
+587,248,Hypertension,Surgical Site,None,Antibiotic course
+588,248,Cancer (active),Urinary Tract,Metformin,Antibiotic course
+589,249,Coronary Artery Disease,Abdominal,Atorvastatin,Surgery (recent)
+590,249,Coronary Artery Disease,Unknown source,Prednisone,Dialysis
+591,249,Hypertension,None documented,Furosemide,Oxygen therapy
+592,250,Chronic Kidney Disease,Unknown source,Warfarin,Surgery (recent)
+593,251,Hypertension,Abdominal,Furosemide,Physiotherapy
+594,252,Hypertension,Skin/Soft Tissue,Insulin,None
+595,252,Hypertension,Abdominal,None,Oxygen therapy
+596,252,Hypertension,Abdominal,Insulin,Surgery (recent)
+597,253,Cancer (active),Skin/Soft Tissue,Metformin,Surgery (recent)
+598,253,Cancer (active),Abdominal,Lisinopril,Surgery (recent)
+599,253,Cancer (active),Respiratory,Salbutamol inhaler,Surgery (recent)
+600,254,Coronary Artery Disease,Abdominal,Insulin,IV fluids
+601,255,Immunosuppression,Respiratory,Amlodipine,Antibiotic course
+602,255,Immunosuppression,Skin/Soft Tissue,Atorvastatin,Dialysis
+603,255,Immunosuppression,Urinary Tract,Metformin,Surgery (recent)
+604,255,Immunosuppression,Unknown source,Warfarin,Surgery (recent)
+605,256,Hypertension,Unknown source,Atorvastatin,Antibiotic course
+606,256,COPD,Skin/Soft Tissue,Furosemide,IV fluids
+607,257,Immunosuppression,Skin/Soft Tissue,Furosemide,Oxygen therapy
+608,257,Immunosuppression,Skin/Soft Tissue,Amlodipine,Surgery (recent)
+609,257,Immunosuppression,Unknown source,Salbutamol inhaler,Oxygen therapy
+610,257,Immunosuppression,Skin/Soft Tissue,Furosemide,Oxygen therapy
+611,258,Hypertension,Abdominal,Salbutamol inhaler,Surgery (recent)
+612,258,Hypertension,Abdominal,Furosemide,Surgery (recent)
+613,259,Obesity,Bloodstream,Prednisone,Physiotherapy
+614,260,Liver Disease,Urinary Tract,Warfarin,IV fluids
+615,260,Liver Disease,Skin/Soft Tissue,Insulin,Physiotherapy
+616,260,Liver Disease,Urinary Tract,None,None
+617,260,Liver Disease,Unknown source,Amlodipine,Antibiotic course
+618,261,Coronary Artery Disease,Unknown source,Prednisone,Antibiotic course
+619,261,Coronary Artery Disease,Urinary Tract,Amlodipine,IV fluids
+620,262,Diabetes,Urinary Tract,None,Physiotherapy
+621,262,Hypertension,None documented,Salbutamol inhaler,Antibiotic course
+622,262,Diabetes,Surgical Site,Furosemide,Antibiotic course
+623,263,COPD,None documented,Prednisone,Dialysis
+624,264,Immunosuppression,Urinary Tract,Lisinopril,None
+625,264,Immunosuppression,Respiratory,Insulin,None
+626,265,Liver Disease,Surgical Site,Prednisone,Physiotherapy
+627,265,Immunosuppression,Abdominal,Furosemide,Antibiotic course
+628,266,Obesity,Unknown source,Lisinopril,IV fluids
+629,266,Obesity,Skin/Soft Tissue,Metformin,Surgery (recent)
+630,267,COPD,Urinary Tract,Furosemide,IV fluids
+631,267,COPD,Bloodstream,None,Surgery (recent)
+632,267,COPD,Abdominal,Furosemide,Surgery (recent)
+633,268,Coronary Artery Disease,Bloodstream,Prednisone,None
+634,269,COPD,Unknown source,Metformin,Physiotherapy
+635,269,None,Urinary Tract,Lisinopril,Physiotherapy
+636,270,Coronary Artery Disease,Respiratory,Warfarin,Surgery (recent)
+637,270,Coronary Artery Disease,Skin/Soft Tissue,Furosemide,IV fluids
+638,270,COPD,Surgical Site,Amlodipine,Oxygen therapy
+639,271,Liver Disease,Abdominal,Warfarin,Antibiotic course
+640,271,Immunosuppression,Surgical Site,Warfarin,Dialysis
+641,271,Liver Disease,Urinary Tract,Metformin,None
+642,271,COPD,None documented,Furosemide,IV fluids
+643,272,Cancer (active),None documented,Warfarin,Surgery (recent)
+644,273,Obesity,Surgical Site,Lisinopril,None
+645,273,Diabetes,Respiratory,Prednisone,Dialysis
+646,273,Diabetes,Unknown source,Warfarin,Surgery (recent)
+647,274,Diabetes,Unknown source,Salbutamol inhaler,IV fluids
+648,275,Cancer (active),Abdominal,Salbutamol inhaler,None
+649,275,Cancer (active),Respiratory,None,IV fluids
+650,275,Cancer (active),Abdominal,Warfarin,Oxygen therapy
+651,276,Obesity,Surgical Site,Atorvastatin,IV fluids
+652,276,Liver Disease,Respiratory,None,None
+653,277,Cancer (active),Bloodstream,Amlodipine,Oxygen therapy
+654,277,Coronary Artery Disease,Respiratory,Salbutamol inhaler,Oxygen therapy
+655,277,Chronic Kidney Disease,Urinary Tract,Amlodipine,Antibiotic course
+656,278,Chronic Kidney Disease,Urinary Tract,Furosemide,Physiotherapy
+657,279,Obesity,Surgical Site,None,Physiotherapy
+658,279,Immunosuppression,Bloodstream,Amlodipine,IV fluids
+659,279,Obesity,Urinary Tract,Metformin,IV fluids
+660,279,Obesity,Bloodstream,Amlodipine,Surgery (recent)
+661,280,Diabetes,Unknown source,Salbutamol inhaler,IV fluids
+662,281,Obesity,Unknown source,Insulin,Surgery (recent)
+663,282,Coronary Artery Disease,Surgical Site,Furosemide,Physiotherapy
+664,282,Chronic Kidney Disease,Abdominal,Salbutamol inhaler,Antibiotic course
+665,282,Coronary Artery Disease,Bloodstream,Prednisone,Dialysis
+666,282,Obesity,None documented,Atorvastatin,Surgery (recent)
+667,283,Immunosuppression,Skin/Soft Tissue,Amlodipine,IV fluids
+668,284,Cancer (active),Unknown source,Metformin,Surgery (recent)
+669,284,Cancer (active),Abdominal,Furosemide,Oxygen therapy
+670,284,Cancer (active),Respiratory,Atorvastatin,Dialysis
+671,284,Cancer (active),Abdominal,Atorvastatin,IV fluids
+672,285,COPD,None documented,Lisinopril,IV fluids
+673,285,COPD,Abdominal,Warfarin,Oxygen therapy
+674,285,COPD,Unknown source,Salbutamol inhaler,Oxygen therapy
+675,286,Hypertension,Bloodstream,Atorvastatin,Physiotherapy
+676,286,Hypertension,Skin/Soft Tissue,Furosemide,Oxygen therapy
+677,286,Immunosuppression,Respiratory,Furosemide,Dialysis
+678,286,Hypertension,Respiratory,None,Physiotherapy
+679,287,Liver Disease,Skin/Soft Tissue,Amlodipine,Antibiotic course
+680,287,Liver Disease,Bloodstream,Lisinopril,Oxygen therapy
+681,287,Liver Disease,Urinary Tract,Insulin,Physiotherapy
+682,288,Cancer (active),Urinary Tract,Prednisone,Oxygen therapy
+683,288,Obesity,Abdominal,Atorvastatin,Dialysis
+684,289,Hypertension,Respiratory,None,Surgery (recent)
+685,289,Liver Disease,Surgical Site,Insulin,Antibiotic course
+686,290,Immunosuppression,None documented,Insulin,Surgery (recent)
+687,290,Immunosuppression,Surgical Site,Furosemide,Physiotherapy
+688,290,Immunosuppression,Urinary Tract,Insulin,Antibiotic course
+689,291,Cancer (active),Bloodstream,Amlodipine,Antibiotic course
+690,291,Cancer (active),None documented,Warfarin,Dialysis
+691,291,Coronary Artery Disease,Bloodstream,Insulin,Antibiotic course
+692,292,Hypertension,Skin/Soft Tissue,Salbutamol inhaler,None
+693,292,Cancer (active),Skin/Soft Tissue,Warfarin,None
+694,292,Coronary Artery Disease,Surgical Site,Salbutamol inhaler,Antibiotic course
+695,292,Coronary Artery Disease,Urinary Tract,Lisinopril,Surgery (recent)
+696,293,Liver Disease,Respiratory,Atorvastatin,Antibiotic course
+697,293,Cancer (active),Unknown source,Salbutamol inhaler,Oxygen therapy
+698,293,Hypertension,Skin/Soft Tissue,Prednisone,None
+699,293,Coronary Artery Disease,Skin/Soft Tissue,Warfarin,Antibiotic course
+700,294,Hypertension,Unknown source,None,Antibiotic course
+701,294,Coronary Artery Disease,Respiratory,Metformin,Dialysis
+702,294,Immunosuppression,Surgical Site,Furosemide,None
+703,294,Immunosuppression,Surgical Site,Insulin,Physiotherapy
+704,295,Diabetes,Unknown source,Warfarin,Dialysis
+705,295,Diabetes,Surgical Site,None,Surgery (recent)
+706,296,Coronary Artery Disease,Abdominal,Salbutamol inhaler,Physiotherapy
+707,296,Liver Disease,Bloodstream,Furosemide,Surgery (recent)
+708,296,Coronary Artery Disease,Abdominal,Insulin,Antibiotic course
+709,297,Obesity,Unknown source,Amlodipine,Antibiotic course
+710,297,Obesity,Abdominal,Prednisone,None
+711,297,Obesity,Urinary Tract,None,Oxygen therapy
+712,298,COPD,Surgical Site,None,Dialysis
+713,298,Coronary Artery Disease,Urinary Tract,Atorvastatin,None
+714,299,Chronic Kidney Disease,Abdominal,Insulin,Surgery (recent)
+715,299,Cancer (active),Respiratory,Salbutamol inhaler,Oxygen therapy
+716,299,Chronic Kidney Disease,Surgical Site,Prednisone,Surgery (recent)
+717,299,Cancer (active),Skin/Soft Tissue,Amlodipine,IV fluids
+718,300,Hypertension,Surgical Site,Atorvastatin,None
+719,300,Hypertension,Urinary Tract,Amlodipine,Oxygen therapy
+720,300,Hypertension,Urinary Tract,Warfarin,Antibiotic course
+721,301,Diabetes,Bloodstream,Warfarin,IV fluids
+722,301,Coronary Artery Disease,Skin/Soft Tissue,Metformin,Physiotherapy
+723,301,None,Skin/Soft Tissue,Prednisone,Surgery (recent)
+724,302,Immunosuppression,Urinary Tract,Furosemide,Surgery (recent)
+725,302,Immunosuppression,Surgical Site,None,Dialysis
+726,302,Immunosuppression,Skin/Soft Tissue,Lisinopril,Oxygen therapy
+727,303,Liver Disease,Urinary Tract,Insulin,Oxygen therapy
+728,303,Obesity,None documented,Furosemide,Surgery (recent)
+729,304,Chronic Kidney Disease,Respiratory,None,IV fluids
+730,305,Coronary Artery Disease,Urinary Tract,Metformin,Physiotherapy
+731,306,Coronary Artery Disease,Urinary Tract,Lisinopril,None
+732,306,Coronary Artery Disease,Abdominal,Metformin,Oxygen therapy
+733,306,Immunosuppression,Unknown source,Warfarin,Oxygen therapy
+734,307,Hypertension,Urinary Tract,Warfarin,Antibiotic course
+735,308,Hypertension,None documented,Lisinopril,Dialysis
+736,308,Coronary Artery Disease,Urinary Tract,Warfarin,Physiotherapy
+737,308,Hypertension,Surgical Site,Furosemide,Oxygen therapy
+738,309,Liver Disease,Respiratory,Warfarin,IV fluids
+739,310,Coronary Artery Disease,Urinary Tract,Lisinopril,Surgery (recent)
+740,310,Coronary Artery Disease,Urinary Tract,Furosemide,Surgery (recent)
+741,311,COPD,Surgical Site,Metformin,Dialysis
+742,311,COPD,None documented,Insulin,Surgery (recent)
+743,311,COPD,Urinary Tract,Warfarin,Surgery (recent)
+744,312,Coronary Artery Disease,Respiratory,Prednisone,None
+745,312,Coronary Artery Disease,Respiratory,Amlodipine,None
+746,313,Liver Disease,None documented,Atorvastatin,Antibiotic course
+747,313,Liver Disease,Urinary Tract,Furosemide,Antibiotic course
+748,313,Liver Disease,Urinary Tract,Prednisone,Oxygen therapy
+749,314,Coronary Artery Disease,Skin/Soft Tissue,Salbutamol inhaler,Dialysis
+750,314,Coronary Artery Disease,None documented,Furosemide,Oxygen therapy
+751,314,Coronary Artery Disease,None documented,Prednisone,Antibiotic course
+752,315,Cancer (active),Urinary Tract,Warfarin,Dialysis
+753,315,Diabetes,Skin/Soft Tissue,None,IV fluids
+754,315,Diabetes,Surgical Site,Metformin,Dialysis
+755,315,Cancer (active),Surgical Site,Warfarin,IV fluids
+756,316,Cancer (active),Respiratory,Salbutamol inhaler,Surgery (recent)
+757,316,Cancer (active),Surgical Site,Prednisone,IV fluids
+758,317,Hypertension,Urinary Tract,Atorvastatin,None
+759,318,Hypertension,Urinary Tract,Furosemide,Oxygen therapy
+760,319,Immunosuppression,Bloodstream,Insulin,Antibiotic course
+761,319,Immunosuppression,Respiratory,Metformin,Surgery (recent)
+762,319,Immunosuppression,Bloodstream,Prednisone,Physiotherapy
+763,320,Chronic Kidney Disease,Abdominal,Salbutamol inhaler,None
+764,320,Chronic Kidney Disease,Unknown source,Furosemide,Dialysis
+765,321,Cancer (active),Skin/Soft Tissue,Atorvastatin,IV fluids
+766,321,Cancer (active),Abdominal,Lisinopril,Antibiotic course
+767,322,Cancer (active),None documented,Salbutamol inhaler,Oxygen therapy
+768,322,Immunosuppression,Skin/Soft Tissue,Metformin,Dialysis
+769,323,Cancer (active),Bloodstream,Furosemide,IV fluids
+770,323,Cancer (active),Skin/Soft Tissue,Salbutamol inhaler,Oxygen therapy
+771,323,Cancer (active),Abdominal,None,Surgery (recent)
+772,323,Cancer (active),Urinary Tract,Amlodipine,Surgery (recent)
+773,324,Obesity,Surgical Site,None,Antibiotic course
+774,324,Liver Disease,None documented,Furosemide,Oxygen therapy
+775,325,Hypertension,Respiratory,Amlodipine,Dialysis
+776,325,Cancer (active),Skin/Soft Tissue,None,Antibiotic course
+777,326,Obesity,Bloodstream,Warfarin,Surgery (recent)
+778,327,Chronic Kidney Disease,Surgical Site,Warfarin,Surgery (recent)
+779,328,Immunosuppression,Skin/Soft Tissue,Furosemide,Dialysis
+780,329,Cancer (active),Urinary Tract,None,Oxygen therapy
+781,329,None,None documented,Furosemide,Surgery (recent)
+782,330,Coronary Artery Disease,None documented,Lisinopril,Physiotherapy
+783,331,Hypertension,Unknown source,Warfarin,None
+784,331,Hypertension,Urinary Tract,Prednisone,Dialysis
+785,332,Obesity,Abdominal,Furosemide,Antibiotic course
+786,333,Diabetes,Urinary Tract,Amlodipine,Surgery (recent)
+787,333,Diabetes,Unknown source,Warfarin,None
+788,333,Diabetes,Unknown source,Salbutamol inhaler,Dialysis
+789,334,Chronic Kidney Disease,None documented,Furosemide,Dialysis
+790,334,Coronary Artery Disease,None documented,Warfarin,None
+791,334,Hypertension,Respiratory,Warfarin,Physiotherapy
+792,334,Cancer (active),Abdominal,Furosemide,Physiotherapy
+793,335,Chronic Kidney Disease,Abdominal,Prednisone,IV fluids
+794,335,Hypertension,Urinary Tract,Furosemide,Dialysis
+795,335,Obesity,Urinary Tract,Amlodipine,Antibiotic course
+796,336,COPD,Surgical Site,Lisinopril,Dialysis
+797,336,COPD,None documented,Atorvastatin,Oxygen therapy
+798,337,COPD,Respiratory,None,None
+799,337,COPD,Respiratory,None,Oxygen therapy
+800,337,COPD,Abdominal,Insulin,IV fluids
+801,338,Immunosuppression,Respiratory,Furosemide,Antibiotic course
+802,339,Coronary Artery Disease,None documented,Atorvastatin,Antibiotic course
+803,339,Immunosuppression,Abdominal,Furosemide,Oxygen therapy
+804,339,Immunosuppression,Surgical Site,Amlodipine,Oxygen therapy
+805,339,Coronary Artery Disease,None documented,Prednisone,Surgery (recent)
+806,340,COPD,Surgical Site,Lisinopril,Oxygen therapy
+807,340,COPD,Abdominal,Lisinopril,Surgery (recent)
+808,340,COPD,Respiratory,Lisinopril,Physiotherapy
+809,340,COPD,None documented,Warfarin,Oxygen therapy
+810,341,COPD,Abdominal,Warfarin,Surgery (recent)
+811,341,COPD,Skin/Soft Tissue,Warfarin,Surgery (recent)
+812,342,Obesity,Urinary Tract,Amlodipine,Dialysis
+813,343,COPD,Surgical Site,Lisinopril,Physiotherapy
+814,343,COPD,Surgical Site,Amlodipine,Surgery (recent)
+815,343,COPD,Unknown source,None,IV fluids
+816,344,Immunosuppression,Skin/Soft Tissue,Lisinopril,Antibiotic course
+817,345,Coronary Artery Disease,Respiratory,Lisinopril,IV fluids
+818,345,Coronary Artery Disease,Bloodstream,Lisinopril,Physiotherapy
+819,345,Coronary Artery Disease,Skin/Soft Tissue,Lisinopril,Physiotherapy
+820,345,Chronic Kidney Disease,None documented,Lisinopril,Antibiotic course
+821,346,Immunosuppression,Bloodstream,Warfarin,Oxygen therapy
+822,346,Hypertension,Respiratory,Lisinopril,Antibiotic course
+823,346,Chronic Kidney Disease,Urinary Tract,Atorvastatin,Surgery (recent)
+824,346,Liver Disease,Surgical Site,Metformin,Dialysis
+825,347,Obesity,Abdominal,Furosemide,Antibiotic course
+826,347,Obesity,Unknown source,Amlodipine,Dialysis
+827,347,Obesity,Respiratory,Prednisone,IV fluids
+828,348,Immunosuppression,Surgical Site,Warfarin,None
+829,349,COPD,Respiratory,Atorvastatin,Surgery (recent)
+830,350,Immunosuppression,Surgical Site,Insulin,None
+831,350,Obesity,Bloodstream,Warfarin,Physiotherapy
+832,350,Immunosuppression,Respiratory,Warfarin,Dialysis
+833,351,Diabetes,None documented,Furosemide,Surgery (recent)
+834,351,Diabetes,Bloodstream,Furosemide,Dialysis
+835,352,COPD,Urinary Tract,Amlodipine,None
+836,352,COPD,Abdominal,Warfarin,Surgery (recent)
+837,353,Hypertension,Abdominal,None,Oxygen therapy
+838,353,Hypertension,Surgical Site,Amlodipine,Surgery (recent)
+839,353,Hypertension,Surgical Site,Furosemide,Oxygen therapy
+840,353,Hypertension,Bloodstream,Metformin,Oxygen therapy
+841,354,Cancer (active),Unknown source,Atorvastatin,Physiotherapy
+842,354,Cancer (active),Bloodstream,Prednisone,Surgery (recent)
+843,355,Obesity,Respiratory,Warfarin,None
+844,355,Obesity,Urinary Tract,Insulin,Dialysis
+845,355,Obesity,None documented,Prednisone,IV fluids
+846,356,Obesity,Abdominal,Amlodipine,None
+847,356,Obesity,None documented,Amlodipine,IV fluids
+848,357,Cancer (active),Bloodstream,Salbutamol inhaler,None
+849,357,Cancer (active),Bloodstream,Metformin,Dialysis
+850,357,Cancer (active),None documented,Salbutamol inhaler,Oxygen therapy
+851,357,Cancer (active),Abdominal,Warfarin,None
+852,358,Cancer (active),Surgical Site,Salbutamol inhaler,Antibiotic course
+853,358,Liver Disease,Skin/Soft Tissue,Metformin,Physiotherapy
+854,358,None,Skin/Soft Tissue,Atorvastatin,Surgery (recent)
+855,358,Cancer (active),Urinary Tract,Metformin,IV fluids
+856,359,Liver Disease,Urinary Tract,Warfarin,Dialysis
+857,359,Hypertension,Abdominal,Prednisone,Physiotherapy
+858,359,Liver Disease,Bloodstream,Atorvastatin,IV fluids
+859,360,Diabetes,Respiratory,Lisinopril,Oxygen therapy
+860,360,COPD,Bloodstream,Amlodipine,Oxygen therapy
+861,360,Cancer (active),Respiratory,Prednisone,Antibiotic course
+862,361,Immunosuppression,Urinary Tract,Atorvastatin,Dialysis
+863,361,Cancer (active),Urinary Tract,Salbutamol inhaler,Dialysis
+864,361,Cancer (active),Unknown source,Warfarin,IV fluids
+865,362,Diabetes,Surgical Site,Atorvastatin,Physiotherapy
+866,363,Cancer (active),Abdominal,Salbutamol inhaler,Surgery (recent)
+867,363,Immunosuppression,Abdominal,Amlodipine,Dialysis
+868,364,Immunosuppression,Urinary Tract,Insulin,None
+869,365,Obesity,Urinary Tract,None,Dialysis
+870,366,Diabetes,Skin/Soft Tissue,Warfarin,Oxygen therapy
+871,367,Immunosuppression,Surgical Site,Furosemide,Physiotherapy
+872,367,None,Abdominal,Lisinopril,Physiotherapy
+873,367,Cancer (active),Unknown source,Metformin,None
+874,367,Chronic Kidney Disease,Urinary Tract,Insulin,Dialysis
+875,368,Diabetes,Urinary Tract,Insulin,Antibiotic course
+876,369,Coronary Artery Disease,None documented,Atorvastatin,Oxygen therapy
+877,369,Coronary Artery Disease,Respiratory,Salbutamol inhaler,None
+878,370,Chronic Kidney Disease,Bloodstream,Prednisone,Physiotherapy
+879,371,Diabetes,None documented,Atorvastatin,Oxygen therapy
+880,372,Cancer (active),Skin/Soft Tissue,Metformin,Oxygen therapy
+881,373,Cancer (active),Respiratory,None,Antibiotic course
+882,373,COPD,None documented,Prednisone,Surgery (recent)
+883,373,Immunosuppression,None documented,Metformin,Antibiotic course
+884,373,Coronary Artery Disease,Skin/Soft Tissue,Prednisone,IV fluids
+885,374,Obesity,Unknown source,Lisinopril,Physiotherapy
+886,374,COPD,Unknown source,Warfarin,Oxygen therapy
+887,374,Obesity,Urinary Tract,Salbutamol inhaler,Physiotherapy
+888,375,Liver Disease,None documented,Prednisone,Antibiotic course
+889,375,Liver Disease,Surgical Site,Metformin,None
+890,376,Liver Disease,Surgical Site,Warfarin,Dialysis
+891,376,Liver Disease,Unknown source,Prednisone,Physiotherapy
+892,377,Liver Disease,Abdominal,Salbutamol inhaler,Surgery (recent)
+893,377,Liver Disease,Respiratory,Furosemide,Antibiotic course
+894,377,Liver Disease,Unknown source,None,IV fluids
+895,378,Liver Disease,Respiratory,Lisinopril,None
+896,378,Liver Disease,Abdominal,Prednisone,Antibiotic course
+897,379,Cancer (active),Urinary Tract,Amlodipine,Antibiotic course
+898,379,Cancer (active),Respiratory,Prednisone,Surgery (recent)
+899,379,Cancer (active),Abdominal,Insulin,Physiotherapy
+900,380,Cancer (active),Bloodstream,Amlodipine,Dialysis
+901,380,Obesity,Abdominal,Atorvastatin,Physiotherapy
+902,380,COPD,Abdominal,Warfarin,Dialysis
+903,381,Chronic Kidney Disease,Unknown source,Warfarin,Oxygen therapy
+904,381,Coronary Artery Disease,Abdominal,Furosemide,IV fluids
+905,381,Obesity,Respiratory,Lisinopril,IV fluids
+906,381,Obesity,Respiratory,Amlodipine,IV fluids
+907,382,Cancer (active),Surgical Site,Amlodipine,IV fluids
+908,382,Cancer (active),Surgical Site,Lisinopril,Antibiotic course
+909,382,Cancer (active),Bloodstream,Insulin,Dialysis
+910,382,Cancer (active),Unknown source,Lisinopril,IV fluids
+911,383,Liver Disease,None documented,Furosemide,Dialysis
+912,383,Immunosuppression,Urinary Tract,None,Physiotherapy
+913,383,Liver Disease,None documented,Insulin,IV fluids
+914,384,Obesity,Bloodstream,None,None
+915,385,COPD,Skin/Soft Tissue,Lisinopril,Surgery (recent)
+916,385,COPD,Surgical Site,Lisinopril,Surgery (recent)
+917,386,Liver Disease,Bloodstream,None,IV fluids
+918,386,Cancer (active),Respiratory,Salbutamol inhaler,Surgery (recent)
+919,386,Liver Disease,Urinary Tract,Insulin,Physiotherapy
+920,387,Diabetes,Bloodstream,Warfarin,None
+921,388,Cancer (active),Respiratory,Warfarin,None
+922,388,Cancer (active),Urinary Tract,Atorvastatin,Oxygen therapy
+923,388,Cancer (active),Respiratory,Atorvastatin,Dialysis
+924,389,COPD,Unknown source,Metformin,None
+925,390,COPD,Unknown source,Insulin,None
+926,390,Coronary Artery Disease,Surgical Site,None,Dialysis
+927,391,None,None documented,Salbutamol inhaler,IV fluids
+928,392,Hypertension,Unknown source,Warfarin,Physiotherapy
+929,392,Hypertension,Unknown source,Prednisone,Dialysis
+930,392,Hypertension,Respiratory,Prednisone,Surgery (recent)
+931,393,COPD,Bloodstream,Lisinopril,None
+932,394,Chronic Kidney Disease,Skin/Soft Tissue,Warfarin,Antibiotic course
+933,395,Obesity,Surgical Site,Prednisone,Dialysis
+934,395,Cancer (active),Bloodstream,Atorvastatin,Oxygen therapy
+935,395,None,Surgical Site,Salbutamol inhaler,Physiotherapy
+936,396,Diabetes,Respiratory,Prednisone,Antibiotic course
+937,396,Chronic Kidney Disease,Respiratory,Insulin,Surgery (recent)
+938,396,Chronic Kidney Disease,Surgical Site,Insulin,Antibiotic course
+939,397,Chronic Kidney Disease,Skin/Soft Tissue,Amlodipine,Antibiotic course
+940,397,COPD,Skin/Soft Tissue,Insulin,Dialysis
+941,397,Chronic Kidney Disease,None documented,Salbutamol inhaler,Dialysis
+942,398,Obesity,Urinary Tract,Atorvastatin,IV fluids
+943,398,Obesity,Urinary Tract,Lisinopril,Oxygen therapy
+944,398,Immunosuppression,Surgical Site,Warfarin,Physiotherapy
+945,398,Obesity,Surgical Site,Atorvastatin,Oxygen therapy
+946,399,Hypertension,Unknown source,Atorvastatin,None
+947,399,Immunosuppression,None documented,Amlodipine,Physiotherapy
+948,400,Diabetes,Surgical Site,Metformin,Surgery (recent)
+949,401,Cancer (active),None documented,None,Dialysis
+950,401,Cancer (active),Urinary Tract,Amlodipine,IV fluids
+951,401,Cancer (active),Abdominal,Prednisone,Surgery (recent)
+952,402,Chronic Kidney Disease,Respiratory,Warfarin,None
+953,402,Chronic Kidney Disease,Unknown source,Insulin,Physiotherapy
+954,403,Immunosuppression,Urinary Tract,Atorvastatin,Oxygen therapy
+955,403,Liver Disease,Bloodstream,Lisinopril,IV fluids
+956,403,Chronic Kidney Disease,Unknown source,Lisinopril,Dialysis
+957,403,Obesity,Unknown source,Amlodipine,IV fluids
+958,404,Diabetes,Surgical Site,Amlodipine,Dialysis
+959,404,Diabetes,None documented,Metformin,IV fluids
+960,405,Coronary Artery Disease,Urinary Tract,Prednisone,Antibiotic course
+961,405,Cancer (active),Surgical Site,None,Physiotherapy
+962,405,Coronary Artery Disease,None documented,Salbutamol inhaler,Oxygen therapy
+963,405,Coronary Artery Disease,Respiratory,Warfarin,Surgery (recent)
+964,406,Cancer (active),Surgical Site,Lisinopril,Surgery (recent)
+965,406,Cancer (active),Unknown source,Prednisone,Surgery (recent)
+966,407,Obesity,Urinary Tract,Furosemide,Surgery (recent)
+967,407,Obesity,Surgical Site,Prednisone,Physiotherapy
+968,407,COPD,Skin/Soft Tissue,Atorvastatin,Antibiotic course
+969,408,Immunosuppression,Surgical Site,Furosemide,Antibiotic course
+970,408,Obesity,Surgical Site,Amlodipine,Dialysis
+971,409,Liver Disease,Unknown source,Furosemide,Physiotherapy
+972,409,Hypertension,Unknown source,Insulin,Dialysis
+973,409,Obesity,None documented,Warfarin,Dialysis
+974,410,Coronary Artery Disease,Surgical Site,Furosemide,Antibiotic course
+975,411,Immunosuppression,Bloodstream,Warfarin,Antibiotic course
+976,411,Diabetes,Abdominal,Amlodipine,Oxygen therapy
+977,411,Immunosuppression,Bloodstream,Lisinopril,Dialysis
+978,412,Chronic Kidney Disease,Unknown source,Lisinopril,Surgery (recent)
+979,412,Coronary Artery Disease,Skin/Soft Tissue,Lisinopril,None
+980,412,Chronic Kidney Disease,None documented,Lisinopril,IV fluids
+981,413,Liver Disease,Skin/Soft Tissue,Atorvastatin,Surgery (recent)
+982,414,Immunosuppression,Urinary Tract,Atorvastatin,None
+983,414,Immunosuppression,Skin/Soft Tissue,Warfarin,Physiotherapy
+984,414,Immunosuppression,None documented,None,Antibiotic course
+985,415,COPD,Bloodstream,Warfarin,IV fluids
+986,415,Diabetes,Abdominal,Warfarin,IV fluids
+987,415,Liver Disease,Unknown source,Amlodipine,Antibiotic course
+988,416,None,Unknown source,Metformin,Oxygen therapy
+989,416,Obesity,Respiratory,Metformin,Dialysis
+990,416,Hypertension,Abdominal,Amlodipine,Dialysis
+991,416,Immunosuppression,Surgical Site,None,None
+992,417,Liver Disease,Respiratory,Metformin,None
+993,418,Liver Disease,None documented,Warfarin,IV fluids
+994,418,Immunosuppression,Urinary Tract,Insulin,Dialysis
+995,418,Liver Disease,Abdominal,Prednisone,Oxygen therapy
+996,419,COPD,Urinary Tract,Prednisone,IV fluids
+997,419,COPD,Skin/Soft Tissue,Insulin,Oxygen therapy
+998,419,Liver Disease,Urinary Tract,Warfarin,Oxygen therapy
+999,419,Obesity,Unknown source,Furosemide,Antibiotic course
+1000,420,Obesity,Surgical Site,Metformin,IV fluids
+1001,420,Obesity,Skin/Soft Tissue,Lisinopril,None
+1002,420,Obesity,Skin/Soft Tissue,Furosemide,Oxygen therapy
+1003,421,Obesity,Bloodstream,Metformin,Oxygen therapy
+1004,422,Diabetes,Surgical Site,None,Physiotherapy
+1005,422,Diabetes,Bloodstream,Warfarin,Physiotherapy
+1006,422,Diabetes,None documented,Insulin,None
+1007,422,Diabetes,None documented,Warfarin,Physiotherapy
+1008,423,Immunosuppression,Respiratory,None,Oxygen therapy
+1009,423,Immunosuppression,None documented,Metformin,Antibiotic course
+1010,423,Immunosuppression,Urinary Tract,Warfarin,Physiotherapy
+1011,424,Cancer (active),Surgical Site,Prednisone,Surgery (recent)
+1012,424,Diabetes,Abdominal,None,Dialysis
+1013,424,Cancer (active),Urinary Tract,Amlodipine,Antibiotic course
+1014,425,Immunosuppression,Bloodstream,Amlodipine,Physiotherapy
+1015,425,Immunosuppression,Respiratory,Lisinopril,None
+1016,425,Hypertension,Bloodstream,Prednisone,Surgery (recent)
+1017,425,Immunosuppression,Unknown source,Amlodipine,None
+1018,426,Coronary Artery Disease,None documented,Salbutamol inhaler,Dialysis
+1019,426,Cancer (active),None documented,Warfarin,Antibiotic course
+1020,427,Liver Disease,Abdominal,Lisinopril,None
+1021,427,Obesity,Urinary Tract,Atorvastatin,None
+1022,428,Hypertension,None documented,Insulin,Surgery (recent)
+1023,428,Liver Disease,None documented,Warfarin,None
+1024,428,Hypertension,Unknown source,Prednisone,Oxygen therapy
+1025,428,Hypertension,Bloodstream,Warfarin,IV fluids
+1026,429,Cancer (active),None documented,Lisinopril,Dialysis
+1027,429,Cancer (active),Unknown source,Amlodipine,None
+1028,429,Cancer (active),Abdominal,Atorvastatin,Physiotherapy
+1029,430,Hypertension,Skin/Soft Tissue,Insulin,Antibiotic course
+1030,430,Hypertension,Surgical Site,Metformin,Surgery (recent)
+1031,430,Hypertension,Surgical Site,None,Physiotherapy
+1032,430,Hypertension,Bloodstream,Lisinopril,Physiotherapy
+1033,431,Cancer (active),Urinary Tract,Atorvastatin,Surgery (recent)
+1034,431,Cancer (active),Unknown source,Salbutamol inhaler,None
+1035,432,Cancer (active),Urinary Tract,Warfarin,Dialysis
+1036,433,Chronic Kidney Disease,Surgical Site,Warfarin,Antibiotic course
+1037,433,COPD,None documented,Amlodipine,None
+1038,433,Chronic Kidney Disease,Urinary Tract,Warfarin,IV fluids
+1039,434,COPD,None documented,Warfarin,Dialysis
+1040,435,COPD,Bloodstream,Metformin,Surgery (recent)
+1041,435,COPD,None documented,Amlodipine,Physiotherapy
+1042,435,Obesity,Unknown source,Metformin,IV fluids
+1043,435,Obesity,Unknown source,Lisinopril,Oxygen therapy
+1044,436,Cancer (active),Unknown source,Lisinopril,IV fluids
+1045,436,Liver Disease,Abdominal,None,IV fluids
+1046,437,Coronary Artery Disease,Unknown source,Insulin,IV fluids
+1047,437,Cancer (active),Bloodstream,Furosemide,Dialysis
+1048,438,COPD,Urinary Tract,Furosemide,Surgery (recent)
+1049,439,Diabetes,None documented,Warfarin,Surgery (recent)
+1050,439,Chronic Kidney Disease,Abdominal,Insulin,Dialysis
+1051,439,Chronic Kidney Disease,Unknown source,Metformin,Dialysis
+1052,440,Hypertension,None documented,None,Surgery (recent)
+1053,440,Hypertension,Bloodstream,Atorvastatin,None
+1054,441,Hypertension,Surgical Site,Warfarin,Dialysis
+1055,441,Diabetes,Bloodstream,Insulin,Surgery (recent)
+1056,442,Coronary Artery Disease,None documented,Warfarin,IV fluids
+1057,442,Coronary Artery Disease,Surgical Site,Salbutamol inhaler,Oxygen therapy
+1058,442,Coronary Artery Disease,Urinary Tract,Prednisone,Physiotherapy
+1059,442,Coronary Artery Disease,None documented,Furosemide,Antibiotic course
+1060,443,Immunosuppression,Skin/Soft Tissue,None,None
+1061,444,Immunosuppression,Unknown source,Prednisone,Surgery (recent)
+1062,444,Cancer (active),None documented,Prednisone,None
+1063,444,Cancer (active),Respiratory,Metformin,Surgery (recent)
+1064,445,Chronic Kidney Disease,None documented,Warfarin,IV fluids
+1065,445,Immunosuppression,Skin/Soft Tissue,Warfarin,Surgery (recent)
+1066,445,Immunosuppression,Bloodstream,Furosemide,Dialysis
+1067,446,Obesity,Skin/Soft Tissue,Salbutamol inhaler,None
+1068,447,COPD,Urinary Tract,None,IV fluids
+1069,447,COPD,None documented,None,IV fluids
+1070,448,Obesity,Surgical Site,None,Dialysis
+1071,448,Obesity,None documented,Atorvastatin,Surgery (recent)
+1072,448,Obesity,None documented,Metformin,Antibiotic course
+1073,448,Obesity,Surgical Site,Warfarin,Oxygen therapy
+1074,449,Coronary Artery Disease,Bloodstream,Amlodipine,Surgery (recent)
+1075,450,Coronary Artery Disease,Urinary Tract,Warfarin,None
+1076,450,Coronary Artery Disease,Surgical Site,Warfarin,Dialysis
+1077,451,Cancer (active),Unknown source,Atorvastatin,Surgery (recent)
+1078,451,Cancer (active),Unknown source,Salbutamol inhaler,Physiotherapy
+1079,451,Cancer (active),Respiratory,Amlodipine,Physiotherapy
+1080,452,Hypertension,Unknown source,Atorvastatin,Physiotherapy
+1081,453,Hypertension,Abdominal,Metformin,Physiotherapy
+1082,454,Immunosuppression,Respiratory,Furosemide,Physiotherapy
+1083,454,Immunosuppression,Abdominal,Metformin,Dialysis
+1084,454,Immunosuppression,Bloodstream,Amlodipine,None
+1085,454,Immunosuppression,Abdominal,Salbutamol inhaler,Surgery (recent)
+1086,455,Hypertension,Bloodstream,Lisinopril,IV fluids
+1087,455,Hypertension,Surgical Site,Lisinopril,Antibiotic course
+1088,456,Liver Disease,Unknown source,Lisinopril,Antibiotic course
+1089,456,Liver Disease,Bloodstream,Metformin,None
+1090,456,Liver Disease,Respiratory,Salbutamol inhaler,IV fluids
+1091,457,Diabetes,Surgical Site,Prednisone,None
+1092,457,None,Skin/Soft Tissue,None,None
+1093,458,Chronic Kidney Disease,Abdominal,Furosemide,Dialysis
+1094,458,Coronary Artery Disease,Skin/Soft Tissue,Warfarin,IV fluids
+1095,458,Obesity,Respiratory,Amlodipine,IV fluids
+1096,458,Chronic Kidney Disease,None documented,Atorvastatin,Antibiotic course
+1097,459,Obesity,Skin/Soft Tissue,Warfarin,Dialysis
+1098,459,Immunosuppression,Skin/Soft Tissue,Salbutamol inhaler,Surgery (recent)
+1099,460,Diabetes,Urinary Tract,Lisinopril,Dialysis
+1100,461,Cancer (active),None documented,None,IV fluids
+1101,461,Coronary Artery Disease,Urinary Tract,Metformin,Antibiotic course
+1102,461,Coronary Artery Disease,Skin/Soft Tissue,Lisinopril,Dialysis
+1103,462,COPD,Abdominal,Salbutamol inhaler,Dialysis
+1104,463,Hypertension,Bloodstream,None,Antibiotic course
+1105,463,Cancer (active),Bloodstream,Salbutamol inhaler,Dialysis
+1106,463,Hypertension,Surgical Site,Insulin,Surgery (recent)
+1107,463,Hypertension,Respiratory,None,Physiotherapy
+1108,464,COPD,Bloodstream,Insulin,Physiotherapy
+1109,464,Immunosuppression,Surgical Site,Lisinopril,Oxygen therapy
+1110,464,Immunosuppression,Unknown source,Salbutamol inhaler,None
+1111,465,Liver Disease,None documented,Atorvastatin,Antibiotic course
+1112,466,Liver Disease,None documented,Prednisone,Physiotherapy
+1113,466,Diabetes,Urinary Tract,Amlodipine,IV fluids
+1114,467,Liver Disease,Abdominal,Prednisone,Oxygen therapy
+1115,467,Liver Disease,None documented,Atorvastatin,None
+1116,468,None,Urinary Tract,Furosemide,Dialysis
+1117,468,Immunosuppression,Skin/Soft Tissue,Warfarin,Surgery (recent)
+1118,469,Coronary Artery Disease,Urinary Tract,Insulin,Physiotherapy
+1119,469,Coronary Artery Disease,None documented,Prednisone,Dialysis
+1120,469,Coronary Artery Disease,Unknown source,Atorvastatin,Antibiotic course
+1121,470,Hypertension,Skin/Soft Tissue,Atorvastatin,Antibiotic course
+1122,470,Cancer (active),Skin/Soft Tissue,Amlodipine,None
+1123,470,Hypertension,Respiratory,Warfarin,Antibiotic course
+1124,471,COPD,Surgical Site,Insulin,Surgery (recent)
+1125,471,Liver Disease,Surgical Site,Furosemide,Surgery (recent)
+1126,472,Chronic Kidney Disease,Bloodstream,Furosemide,Oxygen therapy
+1127,472,Chronic Kidney Disease,Surgical Site,Metformin,Antibiotic course
+1128,473,Chronic Kidney Disease,Urinary Tract,Atorvastatin,Antibiotic course
+1129,473,Cancer (active),Abdominal,Amlodipine,Surgery (recent)
+1130,474,Diabetes,Surgical Site,Furosemide,IV fluids
+1131,474,COPD,Skin/Soft Tissue,Furosemide,IV fluids
+1132,474,COPD,Bloodstream,Amlodipine,Oxygen therapy
+1133,474,Diabetes,Respiratory,Insulin,Dialysis
+1134,475,COPD,Unknown source,Metformin,Surgery (recent)
+1135,475,Hypertension,Skin/Soft Tissue,Atorvastatin,None
+1136,476,Obesity,Skin/Soft Tissue,Salbutamol inhaler,None
+1137,476,Chronic Kidney Disease,Respiratory,None,Antibiotic course
+1138,476,COPD,Abdominal,Amlodipine,Physiotherapy
+1139,476,Obesity,Unknown source,Salbutamol inhaler,Surgery (recent)
+1140,477,Obesity,Unknown source,Salbutamol inhaler,Antibiotic course
+1141,477,Diabetes,Skin/Soft Tissue,Lisinopril,Antibiotic course
+1142,478,Obesity,None documented,Amlodipine,Dialysis
+1143,478,Liver Disease,Abdominal,Furosemide,Antibiotic course
+1144,478,Diabetes,Skin/Soft Tissue,Furosemide,Antibiotic course
+1145,479,Liver Disease,Respiratory,Prednisone,None
+1146,479,Chronic Kidney Disease,Surgical Site,Lisinopril,Dialysis
+1147,479,Liver Disease,Unknown source,Furosemide,Surgery (recent)
+1148,479,Liver Disease,None documented,None,None
+1149,480,Liver Disease,Skin/Soft Tissue,Atorvastatin,Physiotherapy
+1150,480,Liver Disease,Bloodstream,Amlodipine,None
+1151,480,Liver Disease,Urinary Tract,Amlodipine,Physiotherapy
+1152,480,Liver Disease,Surgical Site,Lisinopril,Oxygen therapy
+1153,481,Chronic Kidney Disease,Surgical Site,Prednisone,None
+1154,482,COPD,Bloodstream,Salbutamol inhaler,Antibiotic course
+1155,482,Chronic Kidney Disease,Unknown source,Prednisone,IV fluids
+1156,482,COPD,Respiratory,None,IV fluids
+1157,482,Cancer (active),Urinary Tract,Furosemide,Surgery (recent)
+1158,483,Cancer (active),Abdominal,None,Antibiotic course
+1159,484,Hypertension,Skin/Soft Tissue,None,None
+1160,484,Diabetes,Surgical Site,Lisinopril,Dialysis
+1161,484,None,Respiratory,None,Dialysis
+1162,484,Coronary Artery Disease,None documented,Amlodipine,Surgery (recent)
+1163,485,Chronic Kidney Disease,Skin/Soft Tissue,Furosemide,Oxygen therapy
+1164,485,Chronic Kidney Disease,Bloodstream,Lisinopril,Dialysis
+1165,485,Chronic Kidney Disease,Urinary Tract,Salbutamol inhaler,Dialysis
+1166,486,Diabetes,Abdominal,Metformin,Antibiotic course
+1167,487,Chronic Kidney Disease,Abdominal,Insulin,Physiotherapy
+1168,487,Obesity,Bloodstream,Insulin,Oxygen therapy
+1169,488,COPD,Urinary Tract,Insulin,IV fluids
+1170,488,COPD,Bloodstream,None,Physiotherapy
+1171,488,Immunosuppression,Surgical Site,Lisinopril,None
+1172,489,Immunosuppression,Abdominal,None,Antibiotic course
+1173,490,Diabetes,Unknown source,Metformin,Physiotherapy
+1174,490,Diabetes,Bloodstream,Prednisone,Oxygen therapy
+1175,490,Diabetes,Urinary Tract,Warfarin,None
+1176,491,None,Abdominal,Warfarin,Antibiotic course
+1177,491,Diabetes,Bloodstream,Insulin,Antibiotic course
+1178,491,None,Unknown source,Insulin,Dialysis
+1179,492,Chronic Kidney Disease,Urinary Tract,None,Oxygen therapy
+1180,493,Chronic Kidney Disease,Surgical Site,Salbutamol inhaler,Surgery (recent)
+1181,493,Chronic Kidney Disease,Bloodstream,Salbutamol inhaler,Dialysis
+1182,493,Chronic Kidney Disease,Urinary Tract,Insulin,Oxygen therapy
+1183,494,COPD,Surgical Site,Prednisone,Antibiotic course
+1184,494,COPD,Unknown source,Atorvastatin,Dialysis
+1185,495,Hypertension,Respiratory,Insulin,Physiotherapy
+1186,495,Chronic Kidney Disease,None documented,Amlodipine,Dialysis
+1187,495,COPD,Surgical Site,Metformin,IV fluids
+1188,496,Chronic Kidney Disease,Skin/Soft Tissue,Atorvastatin,IV fluids
+1189,496,Cancer (active),Bloodstream,Amlodipine,IV fluids
+1190,497,Coronary Artery Disease,Bloodstream,None,Physiotherapy
+1191,497,Diabetes,None documented,Metformin,Oxygen therapy
+1192,497,Coronary Artery Disease,Respiratory,Atorvastatin,None
+1193,498,Immunosuppression,Urinary Tract,None,Physiotherapy
+1194,498,Immunosuppression,Bloodstream,Salbutamol inhaler,Oxygen therapy
+1195,498,Diabetes,Urinary Tract,Amlodipine,Physiotherapy
+1196,499,Diabetes,Surgical Site,None,Dialysis
+1197,499,Diabetes,Surgical Site,Atorvastatin,Oxygen therapy
+1198,499,COPD,Surgical Site,Metformin,Antibiotic course
+1199,499,COPD,Skin/Soft Tissue,Metformin,Dialysis
+1200,500,Chronic Kidney Disease,Surgical Site,Salbutamol inhaler,None
+1201,500,Liver Disease,Respiratory,None,None
+1202,501,Chronic Kidney Disease,Urinary Tract,Atorvastatin,Physiotherapy
+1203,501,Chronic Kidney Disease,None documented,Salbutamol inhaler,IV fluids
+1204,502,Diabetes,Unknown source,Amlodipine,None
+1205,502,Diabetes,None documented,Amlodipine,IV fluids
+1206,502,Diabetes,Urinary Tract,Salbutamol inhaler,Physiotherapy
+1207,503,Chronic Kidney Disease,Surgical Site,Amlodipine,IV fluids
+1208,504,Chronic Kidney Disease,None documented,Atorvastatin,Antibiotic course
+1209,504,Chronic Kidney Disease,Bloodstream,Amlodipine,Dialysis
+1210,504,Liver Disease,Unknown source,Atorvastatin,Physiotherapy
+1211,505,Hypertension,Urinary Tract,Amlodipine,None
+1212,505,Hypertension,Skin/Soft Tissue,Furosemide,Surgery (recent)
+1213,505,Diabetes,Unknown source,Amlodipine,Surgery (recent)
+1214,505,Diabetes,Abdominal,Metformin,Antibiotic course
+1215,506,Immunosuppression,Skin/Soft Tissue,Warfarin,Dialysis
+1216,506,Obesity,Respiratory,Furosemide,Physiotherapy
+1217,506,Immunosuppression,Respiratory,Furosemide,None
+1218,506,Obesity,Surgical Site,Atorvastatin,Dialysis
+1219,507,Diabetes,Skin/Soft Tissue,Furosemide,Dialysis
+1220,507,Diabetes,Abdominal,Warfarin,IV fluids
+1221,508,COPD,Unknown source,Lisinopril,Oxygen therapy
+1222,508,COPD,Urinary Tract,Salbutamol inhaler,Physiotherapy
+1223,509,COPD,Urinary Tract,Atorvastatin,Dialysis
+1224,509,Liver Disease,Bloodstream,Prednisone,Oxygen therapy
+1225,510,Cancer (active),Bloodstream,Warfarin,Antibiotic course
+1226,510,Cancer (active),None documented,Furosemide,Antibiotic course
+1227,510,Cancer (active),None documented,Furosemide,Oxygen therapy
+1228,511,COPD,Respiratory,Amlodipine,Oxygen therapy
+1229,511,COPD,Respiratory,None,None
+1230,511,COPD,Abdominal,Warfarin,Antibiotic course
+1231,511,COPD,Unknown source,Lisinopril,Surgery (recent)
+1232,512,Diabetes,Respiratory,None,Physiotherapy
+1233,512,Diabetes,Skin/Soft Tissue,None,Antibiotic course
+1234,512,Diabetes,Abdominal,Furosemide,Surgery (recent)
+1235,513,Immunosuppression,Urinary Tract,Furosemide,Dialysis
+1236,513,Immunosuppression,Unknown source,Metformin,Surgery (recent)
+1237,513,Immunosuppression,Surgical Site,Lisinopril,IV fluids
+1238,514,Chronic Kidney Disease,Respiratory,Lisinopril,IV fluids
+1239,514,Immunosuppression,Abdominal,Prednisone,Surgery (recent)
+1240,515,COPD,Unknown source,Atorvastatin,Antibiotic course
+1241,515,COPD,Bloodstream,Furosemide,Oxygen therapy
+1242,515,COPD,None documented,Amlodipine,IV fluids
+1243,516,Cancer (active),Urinary Tract,Atorvastatin,Dialysis
+1244,516,Cancer (active),Surgical Site,Furosemide,IV fluids
+1245,516,Cancer (active),Abdominal,Metformin,Dialysis
+1246,517,COPD,Respiratory,Salbutamol inhaler,Oxygen therapy
+1247,517,COPD,Respiratory,Lisinopril,Surgery (recent)
+1248,517,COPD,Surgical Site,Warfarin,Antibiotic course
+1249,517,COPD,Abdominal,Amlodipine,IV fluids
+1250,518,None,Skin/Soft Tissue,Warfarin,Surgery (recent)
+1251,518,Immunosuppression,Urinary Tract,Amlodipine,IV fluids
+1252,518,Coronary Artery Disease,Surgical Site,Prednisone,IV fluids
+1253,518,Chronic Kidney Disease,Respiratory,Metformin,None
+1254,519,Coronary Artery Disease,Surgical Site,None,Antibiotic course
+1255,520,Coronary Artery Disease,Respiratory,Lisinopril,Antibiotic course
+1256,520,Coronary Artery Disease,Bloodstream,Metformin,None
+1257,520,Coronary Artery Disease,Bloodstream,Amlodipine,None
+1258,521,COPD,Abdominal,Furosemide,Antibiotic course
+1259,521,Immunosuppression,Skin/Soft Tissue,Salbutamol inhaler,Dialysis
+1260,522,Cancer (active),Skin/Soft Tissue,Prednisone,Oxygen therapy
+1261,522,Cancer (active),Unknown source,Warfarin,None
+1262,522,Cancer (active),Bloodstream,Insulin,IV fluids
+1263,523,Hypertension,Abdominal,Insulin,IV fluids
+1264,523,Liver Disease,Unknown source,Salbutamol inhaler,Antibiotic course
+1265,523,Hypertension,Bloodstream,Warfarin,Surgery (recent)
+1266,524,None,Surgical Site,Furosemide,Surgery (recent)
+1267,524,None,Abdominal,Atorvastatin,Antibiotic course
+1268,524,Coronary Artery Disease,Surgical Site,Insulin,None
+1269,524,Obesity,None documented,Amlodipine,Antibiotic course
+1270,525,Cancer (active),Surgical Site,Atorvastatin,Physiotherapy
+1271,525,Cancer (active),Urinary Tract,Atorvastatin,IV fluids
+1272,526,Hypertension,None documented,Metformin,Physiotherapy
+1273,526,Hypertension,Bloodstream,Warfarin,None
+1274,526,Hypertension,None documented,Warfarin,IV fluids
+1275,526,Hypertension,Bloodstream,Furosemide,Surgery (recent)
+1276,527,Obesity,Unknown source,None,Oxygen therapy
+1277,527,Diabetes,Surgical Site,Warfarin,IV fluids
+1278,527,Chronic Kidney Disease,Unknown source,Insulin,IV fluids
+1279,527,Immunosuppression,None documented,Furosemide,None
+1280,528,Liver Disease,Surgical Site,Lisinopril,Physiotherapy
+1281,528,Liver Disease,Surgical Site,Furosemide,Oxygen therapy
+1282,528,Liver Disease,Urinary Tract,Insulin,None
+1283,529,Diabetes,Bloodstream,Prednisone,None
+1284,529,Diabetes,Respiratory,Amlodipine,Dialysis
+1285,530,Cancer (active),None documented,Furosemide,Antibiotic course
+1286,530,Cancer (active),Skin/Soft Tissue,Furosemide,Antibiotic course
+1287,530,Cancer (active),Bloodstream,Metformin,IV fluids
+1288,531,COPD,Abdominal,Warfarin,Oxygen therapy
+1289,532,COPD,Surgical Site,Warfarin,Oxygen therapy
+1290,532,COPD,Respiratory,Salbutamol inhaler,Oxygen therapy
+1291,533,Immunosuppression,Surgical Site,Metformin,IV fluids
+1292,533,COPD,None documented,Atorvastatin,Physiotherapy
+1293,534,COPD,Unknown source,Metformin,Dialysis
+1294,534,COPD,Bloodstream,Salbutamol inhaler,Antibiotic course
+1295,535,Liver Disease,Skin/Soft Tissue,Atorvastatin,Surgery (recent)
+1296,535,Liver Disease,Urinary Tract,None,IV fluids
+1297,535,Chronic Kidney Disease,Surgical Site,Insulin,Dialysis
+1298,535,Liver Disease,Abdominal,Furosemide,IV fluids
+1299,536,None,Abdominal,Atorvastatin,Antibiotic course
+1300,536,Diabetes,Respiratory,Amlodipine,Dialysis
+1301,536,Hypertension,Skin/Soft Tissue,None,Surgery (recent)
+1302,537,Cancer (active),Respiratory,Salbutamol inhaler,IV fluids
+1303,537,Hypertension,Bloodstream,Salbutamol inhaler,Physiotherapy
+1304,537,Hypertension,Urinary Tract,None,Dialysis
+1305,538,Obesity,Unknown source,Atorvastatin,Antibiotic course
+1306,538,Obesity,Respiratory,Metformin,Dialysis
+1307,538,Obesity,Respiratory,Insulin,Antibiotic course
+1308,538,Obesity,Abdominal,Furosemide,Physiotherapy
+1309,539,Liver Disease,Abdominal,Furosemide,Antibiotic course
+1310,540,None,Surgical Site,Insulin,Surgery (recent)
+1311,541,Obesity,Urinary Tract,Furosemide,None
+1312,542,Obesity,None documented,Lisinopril,Physiotherapy
+1313,542,Obesity,Abdominal,Insulin,Oxygen therapy
+1314,542,Obesity,Unknown source,Salbutamol inhaler,IV fluids
+1315,543,Cancer (active),Respiratory,Salbutamol inhaler,Dialysis
+1316,543,Cancer (active),Abdominal,Prednisone,Surgery (recent)
+1317,543,Cancer (active),Unknown source,Atorvastatin,Oxygen therapy
+1318,543,Cancer (active),Unknown source,Lisinopril,Physiotherapy
+1319,544,Liver Disease,Abdominal,Salbutamol inhaler,None
+1320,545,Obesity,Abdominal,Atorvastatin,Surgery (recent)
+1321,545,COPD,Urinary Tract,Furosemide,Oxygen therapy
+1322,546,Chronic Kidney Disease,Skin/Soft Tissue,Lisinopril,Surgery (recent)
+1323,547,COPD,Unknown source,Warfarin,IV fluids
+1324,547,Obesity,None documented,Insulin,Antibiotic course
+1325,547,Chronic Kidney Disease,Bloodstream,Salbutamol inhaler,IV fluids
+1326,548,Diabetes,Bloodstream,Furosemide,None
+1327,548,Coronary Artery Disease,Surgical Site,Insulin,IV fluids
+1328,548,Diabetes,Respiratory,Amlodipine,Physiotherapy
+1329,549,Diabetes,Respiratory,Lisinopril,Dialysis
+1330,549,Diabetes,Unknown source,Atorvastatin,Antibiotic course
+1331,550,Immunosuppression,None documented,Furosemide,Physiotherapy
+1332,551,Liver Disease,Skin/Soft Tissue,Amlodipine,Surgery (recent)
+1333,551,Obesity,Unknown source,Insulin,Dialysis
+1334,552,Liver Disease,Bloodstream,Atorvastatin,Antibiotic course
+1335,553,Chronic Kidney Disease,Skin/Soft Tissue,Amlodipine,Oxygen therapy
+1336,554,Immunosuppression,Urinary Tract,Atorvastatin,IV fluids
+1337,555,Diabetes,Surgical Site,Metformin,Antibiotic course
+1338,556,Coronary Artery Disease,Urinary Tract,Warfarin,Physiotherapy
+1339,556,Coronary Artery Disease,Bloodstream,Warfarin,Physiotherapy
+1340,556,Coronary Artery Disease,Surgical Site,Atorvastatin,Physiotherapy
+1341,557,Cancer (active),Urinary Tract,Furosemide,Antibiotic course
+1342,557,Diabetes,Respiratory,Prednisone,Dialysis
+1343,558,Chronic Kidney Disease,None documented,Atorvastatin,Surgery (recent)
+1344,559,COPD,Urinary Tract,Prednisone,Surgery (recent)
+1345,559,COPD,Abdominal,Warfarin,None
+1346,559,COPD,Unknown source,Insulin,Dialysis
+1347,559,COPD,Urinary Tract,Prednisone,Surgery (recent)
+1348,560,Chronic Kidney Disease,None documented,None,Dialysis
+1349,560,Chronic Kidney Disease,Abdominal,Furosemide,Surgery (recent)
+1350,561,Liver Disease,Respiratory,Lisinopril,IV fluids
+1351,561,Liver Disease,Skin/Soft Tissue,Amlodipine,IV fluids
+1352,562,Obesity,Surgical Site,Prednisone,IV fluids
+1353,562,Obesity,Urinary Tract,Amlodipine,Surgery (recent)
+1354,562,Obesity,Urinary Tract,Insulin,Physiotherapy
+1355,562,Obesity,Bloodstream,Insulin,None
+1356,563,COPD,None documented,Warfarin,IV fluids
+1357,563,COPD,Unknown source,Furosemide,None
+1358,564,Liver Disease,Surgical Site,Furosemide,IV fluids
+1359,564,Liver Disease,Abdominal,Lisinopril,Dialysis
+1360,564,Liver Disease,Unknown source,Lisinopril,Dialysis
+1361,564,Liver Disease,Skin/Soft Tissue,Lisinopril,None
+1362,565,Immunosuppression,Skin/Soft Tissue,Metformin,IV fluids
+1363,566,Cancer (active),Abdominal,Salbutamol inhaler,None
+1364,567,Diabetes,Respiratory,None,Oxygen therapy
+1365,568,Diabetes,Respiratory,Metformin,IV fluids
+1366,569,Diabetes,Bloodstream,Atorvastatin,None
+1367,570,Cancer (active),Abdominal,Lisinopril,Surgery (recent)
+1368,570,Cancer (active),Urinary Tract,None,Dialysis
+1369,570,Cancer (active),Respiratory,Amlodipine,Oxygen therapy
+1370,571,Liver Disease,Abdominal,Lisinopril,None
+1371,572,Cancer (active),Surgical Site,Prednisone,Antibiotic course
+1372,572,Cancer (active),Surgical Site,Lisinopril,IV fluids
+1373,573,Obesity,Unknown source,Warfarin,Surgery (recent)
+1374,573,Cancer (active),Surgical Site,Amlodipine,Oxygen therapy
+1375,573,Cancer (active),None documented,Prednisone,Dialysis
+1376,574,COPD,Bloodstream,Furosemide,Oxygen therapy
+1377,574,Immunosuppression,Unknown source,Amlodipine,IV fluids
+1378,575,Obesity,Abdominal,Metformin,Dialysis
+1379,575,Obesity,Skin/Soft Tissue,Lisinopril,Dialysis
+1380,575,Obesity,None documented,Metformin,Surgery (recent)
+1381,575,Obesity,Skin/Soft Tissue,None,Physiotherapy
+1382,576,Hypertension,Surgical Site,Prednisone,Physiotherapy
+1383,576,Obesity,Skin/Soft Tissue,Atorvastatin,None
+1384,576,Obesity,Surgical Site,None,Physiotherapy
+1385,576,Obesity,Urinary Tract,Atorvastatin,Surgery (recent)
+1386,577,Diabetes,Surgical Site,Insulin,IV fluids
+1387,577,Diabetes,Surgical Site,Prednisone,Oxygen therapy
+1388,578,Hypertension,Bloodstream,Insulin,Oxygen therapy
+1389,578,Hypertension,Surgical Site,None,Antibiotic course
+1390,578,Hypertension,Skin/Soft Tissue,Salbutamol inhaler,Physiotherapy
+1391,578,Hypertension,Unknown source,Amlodipine,Surgery (recent)
+1392,579,COPD,Skin/Soft Tissue,Furosemide,IV fluids
+1393,579,Hypertension,Bloodstream,Salbutamol inhaler,IV fluids
+1394,579,Hypertension,None documented,Furosemide,Surgery (recent)
+1395,580,Obesity,Respiratory,Insulin,None
+1396,581,None,Urinary Tract,Atorvastatin,Surgery (recent)
+1397,581,None,Urinary Tract,Insulin,Dialysis
+1398,582,Hypertension,Unknown source,Warfarin,Dialysis
+1399,582,Hypertension,Skin/Soft Tissue,Metformin,None
+1400,582,Hypertension,Bloodstream,Insulin,Surgery (recent)
+1401,582,Hypertension,Abdominal,None,Surgery (recent)
+1402,583,Immunosuppression,Skin/Soft Tissue,Insulin,Surgery (recent)
+1403,584,Coronary Artery Disease,Abdominal,None,Antibiotic course
+1404,584,Coronary Artery Disease,Bloodstream,Prednisone,None
+1405,584,Coronary Artery Disease,Urinary Tract,Furosemide,IV fluids
+1406,585,Coronary Artery Disease,None documented,Metformin,None
+1407,585,Chronic Kidney Disease,Respiratory,Salbutamol inhaler,Surgery (recent)
+1408,586,Coronary Artery Disease,None documented,Furosemide,Surgery (recent)
+1409,587,Hypertension,Unknown source,Amlodipine,None
+1410,587,Cancer (active),Unknown source,Atorvastatin,Surgery (recent)
+1411,587,None,Bloodstream,None,Dialysis
+1412,588,Immunosuppression,None documented,Prednisone,Dialysis
+1413,588,Immunosuppression,Abdominal,Prednisone,Antibiotic course
+1414,588,Immunosuppression,Abdominal,Furosemide,Surgery (recent)
+1415,588,Liver Disease,Surgical Site,None,IV fluids
+1416,589,Obesity,Skin/Soft Tissue,Warfarin,None
+1417,589,Obesity,Bloodstream,Salbutamol inhaler,None
+1418,589,Obesity,Abdominal,Metformin,IV fluids
+1419,589,Obesity,None documented,Amlodipine,Surgery (recent)
+1420,590,Immunosuppression,Unknown source,Warfarin,Dialysis
+1421,590,Immunosuppression,Respiratory,None,IV fluids
+1422,590,Immunosuppression,Bloodstream,Amlodipine,Physiotherapy
+1423,590,Immunosuppression,Surgical Site,Lisinopril,Antibiotic course
+1424,591,Chronic Kidney Disease,Respiratory,Warfarin,Oxygen therapy
+1425,592,Coronary Artery Disease,Urinary Tract,Metformin,Antibiotic course
+1426,592,Coronary Artery Disease,Surgical Site,None,None
+1427,592,Coronary Artery Disease,Unknown source,Amlodipine,Physiotherapy
+1428,593,Chronic Kidney Disease,Surgical Site,Metformin,IV fluids
+1429,594,Cancer (active),Skin/Soft Tissue,Insulin,Physiotherapy
+1430,594,Cancer (active),None documented,None,Antibiotic course
+1431,594,Liver Disease,Abdominal,Insulin,IV fluids
+1432,594,Cancer (active),Unknown source,Metformin,None
+1433,595,Diabetes,Surgical Site,Warfarin,Physiotherapy
+1434,595,Diabetes,Unknown source,Insulin,IV fluids
+1435,595,Diabetes,Respiratory,Amlodipine,Oxygen therapy
+1436,595,Diabetes,Unknown source,Amlodipine,Surgery (recent)
+1437,596,Obesity,Skin/Soft Tissue,Lisinopril,Oxygen therapy
+1438,596,COPD,Abdominal,Atorvastatin,Physiotherapy
+1439,596,Immunosuppression,Abdominal,Salbutamol inhaler,None
+1440,597,Hypertension,Surgical Site,Lisinopril,Antibiotic course
+1441,597,Hypertension,None documented,None,Dialysis
+1442,598,Immunosuppression,Surgical Site,Salbutamol inhaler,Surgery (recent)
+1443,598,COPD,Unknown source,Furosemide,Antibiotic course
+1444,599,Immunosuppression,Skin/Soft Tissue,Salbutamol inhaler,Physiotherapy
+1445,599,COPD,Skin/Soft Tissue,Warfarin,Surgery (recent)
+1446,600,Diabetes,Urinary Tract,Atorvastatin,Dialysis
+1447,600,Coronary Artery Disease,Urinary Tract,Salbutamol inhaler,IV fluids
+1448,600,Diabetes,Surgical Site,Salbutamol inhaler,IV fluids
+1449,600,Liver Disease,Unknown source,Insulin,Oxygen therapy

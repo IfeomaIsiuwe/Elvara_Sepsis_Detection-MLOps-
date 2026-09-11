@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "reference_rows": 600,
+  "current_rows": 5000,
+  "number_of_features": 18,
+  "features_monitored": [
+    "age",
+    "comorbidity_count",
+    "gender_Male",
+    "heart_rate_rate_per_hr",
+    "temperature_rate_per_hr",
+    "oxygen_saturation_rate_per_hr",
+    "respiratory_rate_rate_per_hr",
+    "blood_pressure_rate_per_hr",
+    "white_cell_count_mean",
+    "white_cell_count_last",
+    "crp_mean",
+    "crp_last",
+    "lactate_mean",
+    "lactate_last",
+    "creatinine_mean",
+    "creatinine_last",
+    "platelet_count_mean",
+    "platelet_count_last"
+  ],
+  "drift_detected": false
+}

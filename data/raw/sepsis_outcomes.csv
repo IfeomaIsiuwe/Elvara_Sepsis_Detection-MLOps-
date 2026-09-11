@@ -1,0 +1,601 @@
+outcome_id,patient_id,sepsis_event,diagnosis_time,hospitalisation_required,outcome_status
+1,1,False,,True,Recovered - discharged
+2,2,False,,False,Recovered - discharged
+3,3,False,,True,Recovered - discharged
+4,4,False,,False,Recovered - discharged
+5,5,False,,False,Recovered - discharged
+6,6,False,,False,Recovered - discharged
+7,7,False,,False,Recovered - discharged
+8,8,False,,False,Recovered - discharged
+9,9,True,2024-06-01 22:58:00,False,Recovered - discharged
+10,10,False,,True,Recovered - discharged
+11,11,True,2024-05-25 05:38:00,True,Ongoing treatment
+12,12,True,2024-04-08 13:37:00,True,Deceased
+13,13,False,,False,Ongoing treatment
+14,14,False,,False,Recovered - discharged
+15,15,False,,False,Recovered - discharged
+16,16,False,,True,Recovered - discharged
+17,17,False,,False,Recovered - discharged
+18,18,False,,False,Recovered - discharged
+19,19,False,,True,Recovered - discharged
+20,20,False,,False,Ongoing treatment
+21,21,False,,False,Recovered - discharged
+22,22,False,,False,Recovered - discharged
+23,23,False,,False,Recovered - discharged
+24,24,False,,False,Recovered - discharged
+25,25,False,,True,Recovered - discharged
+26,26,False,,False,Recovered - discharged
+27,27,False,,False,Recovered - discharged
+28,28,False,,False,Recovered - discharged
+29,29,False,,False,Recovered - discharged
+30,30,False,,False,Ongoing treatment
+31,31,False,,True,Recovered - discharged
+32,32,True,2025-02-09 04:30:00,True,Recovered - discharged
+33,33,False,,True,Ongoing treatment
+34,34,True,2025-04-21 13:36:00,True,Recovered - discharged
+35,35,False,,False,Recovered - discharged
+36,36,False,,False,Recovered - discharged
+37,37,True,2024-05-07 05:49:00,True,Recovered - discharged
+38,38,True,2025-05-22 02:40:00,True,Recovered - discharged
+39,39,False,,False,Recovered - discharged
+40,40,True,2025-01-11 04:11:00,True,Recovered - discharged
+41,41,False,,False,Ongoing treatment
+42,42,False,,False,Recovered - discharged
+43,43,False,,False,Recovered - discharged
+44,44,False,,False,Recovered - discharged
+45,45,False,,False,Recovered - discharged
+46,46,False,,False,Recovered - discharged
+47,47,True,2024-02-21 02:21:00,True,Ongoing treatment
+48,48,False,,False,Recovered - discharged
+49,49,False,,False,Recovered - discharged
+50,50,False,,False,Recovered - discharged
+51,51,False,,False,Recovered - discharged
+52,52,False,,False,Recovered - discharged
+53,53,False,,True,Recovered - discharged
+54,54,False,,False,Recovered - discharged
+55,55,False,,False,Ongoing treatment
+56,56,False,,False,Recovered - discharged
+57,57,True,2024-02-13 13:52:00,True,Recovered - discharged
+58,58,False,,True,Ongoing treatment
+59,59,True,2025-09-12 23:23:00,True,Recovered - discharged
+60,60,False,,False,Ongoing treatment
+61,61,False,,False,Transferred
+62,62,False,,False,Recovered - discharged
+63,63,False,,False,Recovered - discharged
+64,64,False,,False,Recovered - discharged
+65,65,False,,False,Recovered - discharged
+66,66,True,2024-07-29 00:08:00,True,Ongoing treatment
+67,67,False,,False,Recovered - discharged
+68,68,False,,False,Ongoing treatment
+69,69,False,,False,Recovered - discharged
+70,70,False,,False,Ongoing treatment
+71,71,False,,True,Recovered - discharged
+72,72,False,,False,Recovered - discharged
+73,73,False,,False,Recovered - discharged
+74,74,False,,False,Ongoing treatment
+75,75,False,,False,Recovered - discharged
+76,76,False,,True,Recovered - discharged
+77,77,True,2025-08-26 23:31:00,False,Recovered - discharged
+78,78,False,,False,Recovered - discharged
+79,79,False,,False,Recovered - discharged
+80,80,False,,True,Recovered - discharged
+81,81,False,,True,Recovered - discharged
+82,82,False,,False,Recovered - discharged
+83,83,True,2025-10-08 06:19:00,True,Recovered - discharged
+84,84,True,2024-03-23 20:16:00,True,Recovered - discharged
+85,85,False,,False,Recovered - discharged
+86,86,False,,False,Recovered - discharged
+87,87,True,2025-05-14 08:18:00,True,Recovered - discharged
+88,88,False,,False,Recovered - discharged
+89,89,False,,False,Recovered - discharged
+90,90,False,,True,Recovered - discharged
+91,91,False,,False,Recovered - discharged
+92,92,False,,False,Recovered - discharged
+93,93,True,2024-09-24 09:00:00,True,Recovered - discharged
+94,94,False,,True,Recovered - discharged
+95,95,False,,True,Recovered - discharged
+96,96,True,2024-07-12 08:17:00,True,Recovered - discharged
+97,97,False,,False,Recovered - discharged
+98,98,True,2024-11-08 12:51:00,True,Recovered - discharged
+99,99,False,,True,Recovered - discharged
+100,100,False,,False,Recovered - discharged
+101,101,False,,False,Recovered - discharged
+102,102,False,,True,Recovered - discharged
+103,103,False,,True,Recovered - discharged
+104,104,False,,True,Recovered - discharged
+105,105,False,,False,Recovered - discharged
+106,106,False,,False,Recovered - discharged
+107,107,False,,False,Recovered - discharged
+108,108,False,,False,Recovered - discharged
+109,109,False,,False,Recovered - discharged
+110,110,False,,True,Recovered - discharged
+111,111,False,,False,Recovered - discharged
+112,112,False,,False,Recovered - discharged
+113,113,False,,True,Recovered - discharged
+114,114,False,,False,Recovered - discharged
+115,115,False,,False,Recovered - discharged
+116,116,False,,False,Recovered - discharged
+117,117,False,,False,Recovered - discharged
+118,118,False,,False,Recovered - discharged
+119,119,False,,False,Recovered - discharged
+120,120,False,,False,Recovered - discharged
+121,121,False,,False,Recovered - discharged
+122,122,False,,False,Recovered - discharged
+123,123,False,,False,Recovered - discharged
+124,124,False,,False,Recovered - discharged
+125,125,False,,True,Recovered - discharged
+126,126,False,,False,Recovered - discharged
+127,127,False,,False,Recovered - discharged
+128,128,False,,False,Recovered - discharged
+129,129,True,2025-12-18 14:07:00,True,Ongoing treatment
+130,130,False,,False,Recovered - discharged
+131,131,False,,False,Recovered - discharged
+132,132,False,,False,Recovered - discharged
+133,133,False,,False,Recovered - discharged
+134,134,False,,False,Ongoing treatment
+135,135,False,,False,Recovered - discharged
+136,136,False,,False,Recovered - discharged
+137,137,False,,False,Recovered - discharged
+138,138,False,,False,Recovered - discharged
+139,139,False,,False,Recovered - discharged
+140,140,False,,False,Recovered - discharged
+141,141,False,,True,Recovered - discharged
+142,142,False,,False,Recovered - discharged
+143,143,False,,False,Recovered - discharged
+144,144,False,,False,Recovered - discharged
+145,145,False,,False,Recovered - discharged
+146,146,True,2024-05-24 06:18:00,True,Recovered - discharged
+147,147,False,,False,Ongoing treatment
+148,148,False,,False,Recovered - discharged
+149,149,True,2024-07-08 03:35:00,True,Recovered - discharged
+150,150,False,,False,Recovered - discharged
+151,151,False,,False,Recovered - discharged
+152,152,False,,False,Recovered - discharged
+153,153,False,,False,Recovered - discharged
+154,154,True,2024-10-12 14:10:00,False,Recovered - discharged
+155,155,False,,False,Recovered - discharged
+156,156,False,,True,Recovered - discharged
+157,157,False,,False,Recovered - discharged
+158,158,False,,False,Recovered - discharged
+159,159,False,,False,Recovered - discharged
+160,160,False,,True,Recovered - discharged
+161,161,False,,False,Recovered - discharged
+162,162,False,,False,Recovered - discharged
+163,163,False,,False,Recovered - discharged
+164,164,False,,False,Recovered - discharged
+165,165,False,,False,Recovered - discharged
+166,166,False,,False,Recovered - discharged
+167,167,False,,False,Recovered - discharged
+168,168,True,2025-01-20 14:29:00,True,Recovered - discharged
+169,169,False,,False,Recovered - discharged
+170,170,False,,False,Recovered - discharged
+171,171,True,2024-08-06 09:19:00,True,Recovered - discharged
+172,172,False,,False,Recovered - discharged
+173,173,False,,False,Recovered - discharged
+174,174,False,,False,Recovered - discharged
+175,175,False,,False,Recovered - discharged
+176,176,False,,False,Recovered - discharged
+177,177,False,,False,Recovered - discharged
+178,178,True,2025-10-23 18:31:00,True,Recovered - discharged
+179,179,False,,False,Recovered - discharged
+180,180,False,,False,Recovered - discharged
+181,181,False,,False,Recovered - discharged
+182,182,False,,False,Recovered - discharged
+183,183,False,,False,Ongoing treatment
+184,184,False,,False,Recovered - discharged
+185,185,False,,False,Recovered - discharged
+186,186,False,,False,Recovered - discharged
+187,187,True,2024-03-20 17:13:00,True,Ongoing treatment
+188,188,False,,False,Recovered - discharged
+189,189,False,,False,Recovered - discharged
+190,190,False,,False,Recovered - discharged
+191,191,True,2025-01-19 03:59:00,True,Recovered - discharged
+192,192,False,,False,Recovered - discharged
+193,193,False,,False,Recovered - discharged
+194,194,False,,False,Recovered - discharged
+195,195,False,,False,Recovered - discharged
+196,196,False,,False,Recovered - discharged
+197,197,False,,False,Ongoing treatment
+198,198,False,,False,Transferred
+199,199,False,,False,Recovered - discharged
+200,200,False,,False,Recovered - discharged
+201,201,False,,False,Recovered - discharged
+202,202,True,2025-08-31 23:00:00,True,Recovered - discharged
+203,203,False,,False,Recovered - discharged
+204,204,True,2024-04-23 10:53:00,True,Deceased
+205,205,False,,False,Recovered - discharged
+206,206,False,,False,Recovered - discharged
+207,207,False,,False,Recovered - discharged
+208,208,False,,False,Recovered - discharged
+209,209,False,,False,Recovered - discharged
+210,210,False,,True,Recovered - discharged
+211,211,False,,False,Ongoing treatment
+212,212,False,,True,Recovered - discharged
+213,213,False,,False,Recovered - discharged
+214,214,False,,False,Recovered - discharged
+215,215,False,,False,Recovered - discharged
+216,216,True,2024-02-14 10:11:00,False,Recovered - discharged
+217,217,False,,False,Recovered - discharged
+218,218,False,,False,Recovered - discharged
+219,219,False,,False,Recovered - discharged
+220,220,False,,False,Recovered - discharged
+221,221,False,,False,Recovered - discharged
+222,222,False,,False,Recovered - discharged
+223,223,False,,False,Recovered - discharged
+224,224,False,,False,Recovered - discharged
+225,225,False,,True,Recovered - discharged
+226,226,False,,False,Transferred
+227,227,False,,False,Recovered - discharged
+228,228,False,,False,Ongoing treatment
+229,229,False,,False,Recovered - discharged
+230,230,True,2024-05-21 03:31:00,True,Recovered - discharged
+231,231,True,2025-04-28 17:07:00,True,Recovered - discharged
+232,232,False,,False,Recovered - discharged
+233,233,False,,False,Recovered - discharged
+234,234,False,,False,Transferred
+235,235,False,,True,Ongoing treatment
+236,236,True,2024-10-04 02:26:00,True,Ongoing treatment
+237,237,False,,False,Ongoing treatment
+238,238,False,,False,Recovered - discharged
+239,239,False,,False,Recovered - discharged
+240,240,True,2024-01-06 12:59:00,True,Ongoing treatment
+241,241,False,,False,Recovered - discharged
+242,242,False,,True,Recovered - discharged
+243,243,False,,False,Recovered - discharged
+244,244,False,,False,Recovered - discharged
+245,245,False,,False,Recovered - discharged
+246,246,False,,False,Recovered - discharged
+247,247,False,,False,Recovered - discharged
+248,248,False,,True,Recovered - discharged
+249,249,False,,False,Recovered - discharged
+250,250,False,,False,Recovered - discharged
+251,251,False,,True,Recovered - discharged
+252,252,False,,False,Recovered - discharged
+253,253,False,,False,Recovered - discharged
+254,254,False,,False,Recovered - discharged
+255,255,False,,False,Transferred
+256,256,False,,False,Ongoing treatment
+257,257,False,,False,Recovered - discharged
+258,258,False,,False,Recovered - discharged
+259,259,False,,False,Recovered - discharged
+260,260,False,,False,Recovered - discharged
+261,261,False,,False,Recovered - discharged
+262,262,False,,False,Recovered - discharged
+263,263,False,,False,Recovered - discharged
+264,264,False,,False,Recovered - discharged
+265,265,False,,False,Recovered - discharged
+266,266,False,,False,Recovered - discharged
+267,267,False,,False,Recovered - discharged
+268,268,False,,False,Recovered - discharged
+269,269,True,2025-03-17 07:28:00,True,Recovered - discharged
+270,270,False,,True,Recovered - discharged
+271,271,False,,False,Recovered - discharged
+272,272,True,2024-03-17 15:45:00,True,Recovered - discharged
+273,273,False,,False,Recovered - discharged
+274,274,False,,False,Recovered - discharged
+275,275,False,,False,Recovered - discharged
+276,276,False,,False,Recovered - discharged
+277,277,False,,False,Recovered - discharged
+278,278,False,,False,Recovered - discharged
+279,279,False,,False,Recovered - discharged
+280,280,True,2024-08-29 08:50:00,True,Recovered - discharged
+281,281,False,,False,Recovered - discharged
+282,282,False,,False,Recovered - discharged
+283,283,False,,False,Recovered - discharged
+284,284,False,,True,Recovered - discharged
+285,285,False,,False,Recovered - discharged
+286,286,False,,False,Recovered - discharged
+287,287,False,,False,Recovered - discharged
+288,288,False,,False,Ongoing treatment
+289,289,False,,False,Recovered - discharged
+290,290,False,,False,Recovered - discharged
+291,291,False,,False,Recovered - discharged
+292,292,False,,False,Recovered - discharged
+293,293,False,,False,Recovered - discharged
+294,294,False,,False,Recovered - discharged
+295,295,False,,False,Transferred
+296,296,False,,False,Recovered - discharged
+297,297,False,,False,Recovered - discharged
+298,298,False,,False,Recovered - discharged
+299,299,False,,True,Recovered - discharged
+300,300,True,2024-01-28 13:50:00,True,Recovered - discharged
+301,301,False,,False,Recovered - discharged
+302,302,False,,False,Recovered - discharged
+303,303,False,,False,Recovered - discharged
+304,304,False,,False,Recovered - discharged
+305,305,True,2024-09-25 16:05:00,True,Ongoing treatment
+306,306,False,,False,Ongoing treatment
+307,307,False,,False,Recovered - discharged
+308,308,True,2025-07-22 16:50:00,True,Ongoing treatment
+309,309,True,2024-04-16 00:03:00,True,Deceased
+310,310,False,,False,Recovered - discharged
+311,311,True,2024-05-20 16:06:00,True,Ongoing treatment
+312,312,False,,True,Recovered - discharged
+313,313,False,,False,Recovered - discharged
+314,314,False,,False,Recovered - discharged
+315,315,False,,False,Recovered - discharged
+316,316,False,,False,Recovered - discharged
+317,317,False,,False,Recovered - discharged
+318,318,False,,False,Recovered - discharged
+319,319,False,,False,Recovered - discharged
+320,320,False,,True,Recovered - discharged
+321,321,False,,False,Recovered - discharged
+322,322,False,,False,Recovered - discharged
+323,323,False,,False,Ongoing treatment
+324,324,False,,True,Recovered - discharged
+325,325,False,,False,Recovered - discharged
+326,326,True,2025-09-13 22:28:00,False,Recovered - discharged
+327,327,False,,False,Recovered - discharged
+328,328,False,,False,Recovered - discharged
+329,329,False,,False,Recovered - discharged
+330,330,False,,False,Recovered - discharged
+331,331,False,,False,Recovered - discharged
+332,332,False,,False,Recovered - discharged
+333,333,False,,False,Recovered - discharged
+334,334,False,,False,Ongoing treatment
+335,335,False,,False,Recovered - discharged
+336,336,False,,False,Recovered - discharged
+337,337,False,,True,Recovered - discharged
+338,338,False,,True,Recovered - discharged
+339,339,False,,True,Recovered - discharged
+340,340,False,,False,Recovered - discharged
+341,341,False,,False,Recovered - discharged
+342,342,False,,True,Recovered - discharged
+343,343,False,,False,Transferred
+344,344,False,,False,Recovered - discharged
+345,345,False,,False,Recovered - discharged
+346,346,False,,False,Recovered - discharged
+347,347,False,,True,Recovered - discharged
+348,348,False,,False,Recovered - discharged
+349,349,False,,False,Recovered - discharged
+350,350,False,,False,Recovered - discharged
+351,351,False,,False,Recovered - discharged
+352,352,False,,False,Recovered - discharged
+353,353,False,,False,Recovered - discharged
+354,354,False,,False,Recovered - discharged
+355,355,False,,False,Recovered - discharged
+356,356,False,,True,Recovered - discharged
+357,357,True,2024-01-28 11:40:00,True,Deceased
+358,358,False,,False,Recovered - discharged
+359,359,False,,False,Transferred
+360,360,False,,False,Recovered - discharged
+361,361,False,,False,Recovered - discharged
+362,362,False,,False,Recovered - discharged
+363,363,False,,False,Recovered - discharged
+364,364,False,,True,Recovered - discharged
+365,365,False,,False,Recovered - discharged
+366,366,False,,False,Recovered - discharged
+367,367,False,,False,Recovered - discharged
+368,368,False,,False,Recovered - discharged
+369,369,False,,False,Recovered - discharged
+370,370,False,,False,Recovered - discharged
+371,371,True,2025-11-11 15:17:00,True,Recovered - discharged
+372,372,True,2024-02-11 23:29:00,True,Ongoing treatment
+373,373,False,,False,Recovered - discharged
+374,374,False,,False,Recovered - discharged
+375,375,False,,True,Recovered - discharged
+376,376,False,,False,Recovered - discharged
+377,377,False,,False,Recovered - discharged
+378,378,False,,False,Recovered - discharged
+379,379,True,2024-11-02 17:01:00,True,Deceased
+380,380,False,,True,Recovered - discharged
+381,381,False,,False,Recovered - discharged
+382,382,False,,False,Recovered - discharged
+383,383,False,,True,Recovered - discharged
+384,384,False,,False,Recovered - discharged
+385,385,False,,True,Recovered - discharged
+386,386,False,,False,Recovered - discharged
+387,387,False,,False,Recovered - discharged
+388,388,False,,False,Recovered - discharged
+389,389,False,,False,Recovered - discharged
+390,390,False,,False,Recovered - discharged
+391,391,False,,False,Recovered - discharged
+392,392,False,,False,Recovered - discharged
+393,393,False,,False,Recovered - discharged
+394,394,False,,False,Recovered - discharged
+395,395,False,,True,Ongoing treatment
+396,396,False,,True,Recovered - discharged
+397,397,False,,False,Recovered - discharged
+398,398,False,,False,Recovered - discharged
+399,399,False,,False,Ongoing treatment
+400,400,False,,False,Ongoing treatment
+401,401,False,,False,Recovered - discharged
+402,402,False,,False,Recovered - discharged
+403,403,False,,False,Recovered - discharged
+404,404,False,,True,Recovered - discharged
+405,405,False,,False,Recovered - discharged
+406,406,False,,True,Recovered - discharged
+407,407,False,,False,Recovered - discharged
+408,408,True,2025-11-29 21:41:00,True,Recovered - discharged
+409,409,False,,False,Ongoing treatment
+410,410,False,,False,Recovered - discharged
+411,411,False,,False,Recovered - discharged
+412,412,False,,False,Recovered - discharged
+413,413,False,,False,Recovered - discharged
+414,414,False,,False,Recovered - discharged
+415,415,False,,False,Recovered - discharged
+416,416,False,,False,Recovered - discharged
+417,417,False,,False,Recovered - discharged
+418,418,False,,False,Recovered - discharged
+419,419,True,2025-04-11 19:49:00,True,Recovered - discharged
+420,420,False,,False,Recovered - discharged
+421,421,False,,False,Recovered - discharged
+422,422,True,2025-01-18 17:41:00,True,Recovered - discharged
+423,423,False,,False,Recovered - discharged
+424,424,False,,False,Ongoing treatment
+425,425,False,,False,Recovered - discharged
+426,426,False,,False,Ongoing treatment
+427,427,False,,False,Recovered - discharged
+428,428,False,,False,Recovered - discharged
+429,429,False,,False,Recovered - discharged
+430,430,False,,True,Recovered - discharged
+431,431,False,,False,Recovered - discharged
+432,432,False,,False,Recovered - discharged
+433,433,True,2024-01-12 02:16:00,True,Ongoing treatment
+434,434,False,,False,Recovered - discharged
+435,435,False,,True,Recovered - discharged
+436,436,False,,False,Recovered - discharged
+437,437,True,2025-01-04 10:02:00,True,Recovered - discharged
+438,438,False,,False,Recovered - discharged
+439,439,False,,False,Recovered - discharged
+440,440,False,,True,Recovered - discharged
+441,441,False,,False,Recovered - discharged
+442,442,False,,True,Recovered - discharged
+443,443,False,,False,Recovered - discharged
+444,444,False,,False,Recovered - discharged
+445,445,True,2025-01-20 05:35:00,True,Deceased
+446,446,False,,False,Ongoing treatment
+447,447,False,,True,Recovered - discharged
+448,448,False,,True,Recovered - discharged
+449,449,False,,False,Recovered - discharged
+450,450,False,,False,Recovered - discharged
+451,451,False,,False,Recovered - discharged
+452,452,False,,True,Recovered - discharged
+453,453,False,,False,Recovered - discharged
+454,454,False,,False,Recovered - discharged
+455,455,False,,False,Recovered - discharged
+456,456,False,,False,Recovered - discharged
+457,457,True,2025-01-30 04:06:00,True,Recovered - discharged
+458,458,False,,False,Recovered - discharged
+459,459,True,2024-12-29 05:08:00,True,Recovered - discharged
+460,460,False,,False,Recovered - discharged
+461,461,False,,False,Recovered - discharged
+462,462,False,,True,Recovered - discharged
+463,463,True,2025-11-21 12:48:00,True,Recovered - discharged
+464,464,False,,False,Recovered - discharged
+465,465,False,,True,Recovered - discharged
+466,466,False,,True,Ongoing treatment
+467,467,False,,False,Transferred
+468,468,True,2025-12-23 19:53:00,False,Recovered - discharged
+469,469,False,,False,Recovered - discharged
+470,470,True,2024-06-24 15:17:00,True,Recovered - discharged
+471,471,False,,False,Recovered - discharged
+472,472,False,,False,Recovered - discharged
+473,473,False,,False,Recovered - discharged
+474,474,False,,False,Recovered - discharged
+475,475,True,2024-01-25 04:34:00,True,Recovered - discharged
+476,476,True,2025-08-17 00:09:00,True,Recovered - discharged
+477,477,False,,False,Recovered - discharged
+478,478,False,,False,Ongoing treatment
+479,479,False,,False,Ongoing treatment
+480,480,False,,False,Recovered - discharged
+481,481,False,,False,Recovered - discharged
+482,482,True,2024-06-29 07:46:00,True,Recovered - discharged
+483,483,False,,True,Recovered - discharged
+484,484,False,,False,Recovered - discharged
+485,485,False,,False,Recovered - discharged
+486,486,False,,False,Recovered - discharged
+487,487,False,,False,Recovered - discharged
+488,488,False,,False,Recovered - discharged
+489,489,False,,False,Ongoing treatment
+490,490,False,,False,Recovered - discharged
+491,491,False,,False,Recovered - discharged
+492,492,False,,False,Recovered - discharged
+493,493,False,,False,Recovered - discharged
+494,494,False,,False,Recovered - discharged
+495,495,False,,False,Recovered - discharged
+496,496,False,,False,Recovered - discharged
+497,497,False,,False,Recovered - discharged
+498,498,False,,True,Recovered - discharged
+499,499,False,,False,Recovered - discharged
+500,500,False,,False,Recovered - discharged
+501,501,False,,True,Recovered - discharged
+502,502,False,,False,Recovered - discharged
+503,503,False,,False,Recovered - discharged
+504,504,False,,False,Recovered - discharged
+505,505,False,,False,Recovered - discharged
+506,506,False,,True,Recovered - discharged
+507,507,False,,False,Recovered - discharged
+508,508,False,,False,Recovered - discharged
+509,509,False,,False,Recovered - discharged
+510,510,False,,True,Recovered - discharged
+511,511,False,,True,Recovered - discharged
+512,512,False,,False,Recovered - discharged
+513,513,False,,False,Recovered - discharged
+514,514,False,,False,Recovered - discharged
+515,515,False,,False,Recovered - discharged
+516,516,False,,False,Recovered - discharged
+517,517,False,,False,Recovered - discharged
+518,518,False,,False,Recovered - discharged
+519,519,True,2025-09-01 06:30:00,False,Recovered - discharged
+520,520,False,,False,Recovered - discharged
+521,521,False,,False,Recovered - discharged
+522,522,True,2025-06-11 03:06:00,False,Recovered - discharged
+523,523,False,,False,Recovered - discharged
+524,524,False,,True,Recovered - discharged
+525,525,False,,False,Recovered - discharged
+526,526,False,,False,Recovered - discharged
+527,527,True,2024-11-21 02:13:00,True,Recovered - discharged
+528,528,True,2025-09-23 07:14:00,True,Recovered - discharged
+529,529,False,,False,Recovered - discharged
+530,530,False,,False,Recovered - discharged
+531,531,False,,True,Recovered - discharged
+532,532,False,,True,Recovered - discharged
+533,533,False,,False,Recovered - discharged
+534,534,False,,False,Ongoing treatment
+535,535,False,,False,Recovered - discharged
+536,536,False,,False,Recovered - discharged
+537,537,False,,False,Recovered - discharged
+538,538,False,,False,Recovered - discharged
+539,539,False,,False,Recovered - discharged
+540,540,False,,False,Recovered - discharged
+541,541,False,,False,Recovered - discharged
+542,542,True,2025-09-20 14:30:00,True,Recovered - discharged
+543,543,False,,False,Recovered - discharged
+544,544,False,,False,Recovered - discharged
+545,545,False,,False,Recovered - discharged
+546,546,False,,False,Recovered - discharged
+547,547,False,,False,Recovered - discharged
+548,548,False,,True,Recovered - discharged
+549,549,False,,False,Ongoing treatment
+550,550,False,,False,Recovered - discharged
+551,551,False,,False,Ongoing treatment
+552,552,False,,False,Recovered - discharged
+553,553,False,,False,Recovered - discharged
+554,554,False,,True,Recovered - discharged
+555,555,True,2025-11-23 10:45:00,True,Recovered - discharged
+556,556,False,,False,Recovered - discharged
+557,557,False,,False,Recovered - discharged
+558,558,False,,False,Recovered - discharged
+559,559,False,,True,Recovered - discharged
+560,560,False,,False,Recovered - discharged
+561,561,False,,False,Recovered - discharged
+562,562,False,,False,Recovered - discharged
+563,563,False,,False,Recovered - discharged
+564,564,False,,False,Ongoing treatment
+565,565,True,2024-01-24 12:29:00,True,Recovered - discharged
+566,566,False,,False,Recovered - discharged
+567,567,False,,False,Recovered - discharged
+568,568,False,,False,Recovered - discharged
+569,569,False,,False,Recovered - discharged
+570,570,True,2025-08-07 02:55:00,True,Recovered - discharged
+571,571,False,,False,Recovered - discharged
+572,572,False,,False,Transferred
+573,573,False,,False,Ongoing treatment
+574,574,False,,False,Recovered - discharged
+575,575,False,,False,Recovered - discharged
+576,576,False,,False,Recovered - discharged
+577,577,False,,False,Recovered - discharged
+578,578,True,2025-10-31 16:55:00,True,Recovered - discharged
+579,579,False,,False,Recovered - discharged
+580,580,False,,False,Recovered - discharged
+581,581,False,,False,Recovered - discharged
+582,582,False,,False,Recovered - discharged
+583,583,False,,False,Recovered - discharged
+584,584,False,,False,Recovered - discharged
+585,585,False,,False,Recovered - discharged
+586,586,False,,True,Ongoing treatment
+587,587,False,,False,Recovered - discharged
+588,588,False,,False,Ongoing treatment
+589,589,True,2024-05-24 18:50:00,True,Recovered - discharged
+590,590,False,,False,Recovered - discharged
+591,591,False,,False,Recovered - discharged
+592,592,False,,False,Recovered - discharged
+593,593,False,,False,Recovered - discharged
+594,594,False,,False,Recovered - discharged
+595,595,False,,False,Ongoing treatment
+596,596,False,,False,Recovered - discharged
+597,597,False,,True,Recovered - discharged
+598,598,False,,False,Recovered - discharged
+599,599,False,,True,Recovered - discharged
+600,600,False,,False,Recovered - discharged

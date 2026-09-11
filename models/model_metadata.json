@@ -1,0 +1,38 @@
+{
+  "model_type": "HistGradientBoostingClassifier",
+  "features": [
+    "age",
+    "comorbidity_count",
+    "gender_Male",
+    "heart_rate_rate_per_hr",
+    "temperature_rate_per_hr",
+    "oxygen_saturation_rate_per_hr",
+    "respiratory_rate_rate_per_hr",
+    "blood_pressure_rate_per_hr",
+    "white_cell_count_mean",
+    "white_cell_count_last",
+    "crp_mean",
+    "crp_last",
+    "lactate_mean",
+    "lactate_last",
+    "creatinine_mean",
+    "creatinine_last",
+    "platelet_count_mean",
+    "platelet_count_last"
+  ],
+  "primary_metric": {
+    "roc-auc": 0.5118,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0
+  },
+  "baseline_metric": {
+    "model_type": "LogisticRegression",
+    "roc-auc": 0.6002,
+    "precision": 0.1698,
+    "recall": 0.5,
+    "f1_score": 0.2535
+  },
+  "training_samples": 450,
+  "testing_sample": 150
+}

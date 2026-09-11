@@ -89,7 +89,7 @@ def generate_random_patient(pid: int):
     return {
         "patient_id": pid,
         "age": age,
-        "gender": random.choice(["Male", "Female"]),
+        "gender": random.choice([0, 1]),
         "comorbidity_count": comorbidities,
         "vitals": vitals,
         "labs": labs
